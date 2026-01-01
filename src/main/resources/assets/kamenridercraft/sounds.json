@@ -334,5 +334,14 @@
         "stream": true
       }
     ]
+  },
+  "excite2": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "kamenridercraft:excite2",
+        "stream": false
+      }
+    ]
   }
 }
