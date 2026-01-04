@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "final_form_ride_card",
+	"ingredients": [
+	  {
+		  "item": "kamenridercraft:blank_card"
+	  }, 
+	  {
+		"item": "kamenridercraft:rex_vistamp_theme"
+	  },
+	  {
+		"item": "kamenridercraft:giffard_rex_vistamp"
+	  }
+	  ],
+	"result": {
+	  "id": "kamenridercraft:ultimate_vice_card"
+	}
+  }

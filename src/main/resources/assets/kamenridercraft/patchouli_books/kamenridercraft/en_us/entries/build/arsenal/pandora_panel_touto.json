@@ -1,0 +1,19 @@
+{
+	"name": "Pandora Panel",
+	"icon": "kamenridercraft:pandora_panel_touto",
+	"category": "kamenridercraft:build/arsenal",
+	"sortnum": 15,
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"text": "Appears in:$(li)Kamen Rider Build (2017, TV show)$(br2)Can store up to 10 stacks of Fullbottles"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:pandora_panel_touto",
+			"title": " ",
+			"text": "Drops from:$(li)$(l:build/mobs/blood_stalk)Blood Stalk$(/l)"
+		}
+	]
+}

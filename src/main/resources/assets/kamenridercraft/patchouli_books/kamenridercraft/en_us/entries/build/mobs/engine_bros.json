@@ -1,0 +1,17 @@
+{
+	"name": "Engine Bros",
+	"icon": "kamenridercraft:build_logo",
+	"category": "kamenridercraft:build/mobs",
+	"sortnum": 16,
+	"pages": [
+		{
+			"type": "patchouli:entity",
+			"entity": "kamenridercraft:engine_bros",
+			"text": "Appears in:$(li)Kamen Rider Build (2017, TV show)$(br)Health: 80"
+		},
+		{
+			"type": "patchouli:text",
+			"text": "Summoned from a $(l:misc/blocks/boss_blocks#hell_bros_boss_block)Hell Bros. Boss Block$(/l)$(br2)Special moves:$(li)Transforms into $(l:build/riders/bros#hell)Hell Bros$(/l) if you have a $(l:build/items/gears#gear_remocon)Gear Remocon$(/l) in your inventory$(br2)Drops$(li)2-3 $(l:build/items/full_bottle)Empty Bottles$(/l)$(li)1 $(l:build/items/gears#gear_engine)Gear Engine$(/l)"
+		}
+	]
+}

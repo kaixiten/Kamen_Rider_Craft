@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "group": "basshaa",
+  "ingredients": [
+{
+	
+	  "item": "kamenridercraft:basshaamagnum"
+	}, 
+	{
+	  "item": "kamenridercraft:tatsulot"
+	} 
+	],
+  "result": {
+	"id": "kamenridercraft:basshaa_magnum_tatsulot"
+  }
+}

@@ -1,0 +1,19 @@
+{
+	"name": "Hitpress",
+	"icon": "kamenridercraft:heatpress",
+	"category": "kamenridercraft:gavv/items",
+	"sortnum": 2,
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Used to trade with a $(l:misc/villagers#agent_villager)Stomach Inc. Agent$(/l)$(br2)Used as the repair material for the $(l:gavv/arsenal/agent_blaster)Stomach Inc. Blaster$(/l)$(br2)The villager inside can be released by using certain weapons, including:$(li)$(l:gavv/arsenal/gavvgablade)Gavvgablade$(/l)$(li)$(l:gavv/arsenal/gavvwhipir)Gavvwhipir$(/l)$(li)$(l:gavv/arsenal/valenbuster)Valenbuster$(/l)$(li)$(l:gavv/arsenal/vrambreaker)Vrambreaker$(/l)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:heatpress",
+			"title": " ",
+			"text": "$(li)$(l:gavv/arsenal/bitter_gavvgablade)Bitter Gavvgablade$(/l)$(li)$(l:gavv/arsenal/bakemagnum)Bakemagnum$(/l)$(br2)Drops from:$(li)$(l:gavv/mobs/agent)Agents$(/l)$(li)$(l:gavv/mobs/nyelv_stomach)Nyelv Stomach$(/l)$(li)$(l:gavv/mobs/glotta_stomach)Glotta Stomach$(/l)$(li)$(l:gavv/mobs/jeeb_stomach)Jeeb Stomach$(/l)$(li)$(l:gavv/mobs/shitta_stomach)Shiita Stomach$(/l)$(li)$(l:gavv/mobs/lango_stomach)Lango Stomach$(/l)$(li)$(l:gavv/mobs/bocca_jaldak)Bocca Jaldak$(/l)"
+		}
+	]
+}

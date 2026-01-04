@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+  "category": "equipment",
+	"group": "kr_kabuto",
+	"pattern": [
+	  "XXX",
+	  "XMX",
+	  "XXX"
+	],
+	"key": {
+	  "X": {
+		"item": "kamenridercraft:mini_zecter"
+	  },
+	  "M": {
+		"item": "kamenridercraft:base_sword"
+	  }
+	},
+	"result": {
+	  "id": "kamenridercraft:zect_mizer"
+	}
+  }

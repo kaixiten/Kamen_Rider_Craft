@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "ikaros",
+  "pattern": [
+    "XXX",
+    "XCX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "kamenridercraft:astroswitch"
+    }, "C": {
+      "item": "kamenridercraft:ikaros_switch"
+    }
+  },
+  "result": {
+    "id": "kamenridercraft:ikaros_driver"
+  }
+}

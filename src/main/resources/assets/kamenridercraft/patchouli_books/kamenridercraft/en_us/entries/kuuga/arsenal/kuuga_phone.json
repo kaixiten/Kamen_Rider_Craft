@@ -1,0 +1,19 @@
+{
+	"name": "Kuuga's Phone",
+	"icon": "kamenridercraft:kuuga_phone",
+	"category": "kamenridercraft:kuuga/arsenal",
+	"sortnum": 4,
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"text": "Appears in:$(li)Kamen Rider Kuuga (2000, TV show)$(br2)Lights up when a $(l:kuuga/mobs/zu_gumun_ba)Zu.Gumun.Ba$(/l) is present within 15 blocks"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:kuuga_phone",
+			"title": " ",
+			"text": "Obtained by opening $(l:misc/items/gashapon_capsules)Gashapon Capsules$(/l)"
+		}
+	]
+}

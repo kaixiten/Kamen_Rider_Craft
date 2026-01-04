@@ -1,0 +1,7 @@
+{
+	"parent": "kamenridercraft:zx/main",
+    "name": "ZX Belt Core",
+    "description": "",
+    "icon": "kamenridercraft:zx_belt_core",
+    "sortnum": 2
+}

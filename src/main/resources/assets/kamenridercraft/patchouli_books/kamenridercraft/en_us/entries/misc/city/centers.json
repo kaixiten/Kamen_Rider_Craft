@@ -1,0 +1,198 @@
+{
+	"name": "City Centers",
+	"icon": "kamenridercraft:woz_time_majin_ridewatch",
+	"category": "kamenridercraft:misc/city",
+	"sortnum": 0,
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"text": "City centers are large buildings that determine the type of Rider mobs that spawn in a city. They also determine whether the city will be an urban or suburban area."
+		},
+		{
+			"type": "patchouli:image",
+			"border": true,
+			"images": [
+				"kamenridercraft:patchouli_books/kamenridercraft/images/city_centers.png"
+			],
+			"title": " "
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "tokyo_tower",
+			"title": "Tokyo Tower",
+			"text": "Mobs: None$(br2)Cityscape: Urban (high-rise)$(br2)Loot: None"
+		},
+		{
+			"type": "patchouli:image",
+			"border": true,
+			"images": [
+				"kamenridercraft:patchouli_books/kamenridercraft/images/tokyo_tower.png",
+				"kamenridercraft:patchouli_books/kamenridercraft/images/tokyo_tower_2.png",
+				"kamenridercraft:patchouli_books/kamenridercraft/images/tokyo_tower_3.png",
+				"kamenridercraft:patchouli_books/kamenridercraft/images/tokyo_tower_4.png",
+				"kamenridercraft:patchouli_books/kamenridercraft/images/tokyo_tower_5.png"
+			],
+			"title": " "
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "toei_studios",
+			"title": "Toei Studios",
+			"text": "Mobs: None$(br2)Cityscape: Suburban (low-rise)$(br2)Loot: None"
+		},
+		{
+			"type": "patchouli:image",
+			"border": true,
+			"images": [
+				"kamenridercraft:patchouli_books/kamenridercraft/images/toei_studios.png",
+				"kamenridercraft:patchouli_books/kamenridercraft/images/toei_studios_2.png",
+				"kamenridercraft:patchouli_books/kamenridercraft/images/toei_studios_3.png",
+				"kamenridercraft:patchouli_books/kamenridercraft/images/toei_studios_4.png",
+				"kamenridercraft:patchouli_books/kamenridercraft/images/toei_studios_5.png",
+				"kamenridercraft:patchouli_books/kamenridercraft/images/toei_studios_6.png"
+			],
+			"title": " "
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "fuuto_tower",
+			"title": "Fuuto Tower",
+			"text": "Appears in:$(li)Kamen Rider W (2009, TV show)$(br2)Mobs:$(li)$(l:w/mobs/masquerade)Masquerade$(/l)$(br2)Cityscape: Urban$(br2)Loot: None"
+		},
+		{
+			"type": "patchouli:image",
+			"border": true,
+			"images": [
+				"kamenridercraft:patchouli_books/kamenridercraft/images/fuuto_tower.png",
+				"kamenridercraft:patchouli_books/kamenridercraft/images/fuuto_tower_2.png",
+				"kamenridercraft:patchouli_books/kamenridercraft/images/fuuto_tower_3.png",
+				"kamenridercraft:patchouli_books/kamenridercraft/images/fuuto_tower_4.png"
+			],
+			"title": " "
+		},
+      {
+        "type": "patchouli:text",
+        "anchor": "sabbath",
+        "title": "Sabbath Grounds",
+        "text": "Appears in:$(li)Kamen Rider Wizard (2012, TV show)$(br2)Mobs:$(li)$(l:wizard/mobs/ghouls)Ghouls$(/l)$(br2)Cityscape: Urban"
+      },
+      {
+        "type": "patchouli:image",
+        "border": true,
+        "images": [
+          "kamenridercraft:patchouli_books/kamenridercraft/images/sabbath.png"
+        ],
+        "title": " "
+      },
+		{
+			"type": "patchouli:text",
+			"anchor": "yggdrasil_tower",
+			"title": "Yggdrasil Tower",
+			"text": "Appears in:$(li)Kamen Rider Gaim (2013, TV show)$(br2)Mobs:$(li)$(l:gaim/mobs/elementary_inves_red)Elementary Inves$(/l)$(li)$(l:gaim/mobs/kurokage_trooper)Kurokage Trooper$(/l)$(br2)Cityscape: Urban$(br2)Loot on next page"
+		},
+		{
+			"type": "patchouli:image",
+			"border": true,
+			"images": [
+				"kamenridercraft:patchouli_books/kamenridercraft/images/yggdrasil_tower.png",
+				"kamenridercraft:patchouli_books/kamenridercraft/images/yggdrasil_tower_2.png",
+				"kamenridercraft:patchouli_books/kamenridercraft/images/yggdrasil_tower_3.png",
+				"kamenridercraft:patchouli_books/kamenridercraft/images/yggdrasil_tower_4.png",
+				"kamenridercraft:patchouli_books/kamenridercraft/images/yggdrasil_tower_5.png",
+				"kamenridercraft:patchouli_books/kamenridercraft/images/yggdrasil_tower_6.png"
+			],
+			"title": " "
+		},
+		{
+			"type": "patchouli:text",
+			"text": "Chest loot:$(li)1 $(l:gaim/items/himawari_lockseed)Himawari Lockseed$(/l)$(br)$(li)1 $(l:gaim/items/himawari_lockseed)Himawari Lockseed$(/l) (37.5%)$(li)1 $(l:gaim/items/lockseeds#orange_lockseed)Orange Lockseed$(/l) (20%)$(li)1 $(l:gaim/items/lockseeds#banana_lockseed)Banana Lockseed$(/l) (20%)$(li)1 $(l:gaim/items/lockseeds#budou_lockseed)Budou Lockseed$(/l) (20%)$(li)1 $(l:gaim/items/lockseeds#lemon_lockseed)Lemon Lockseed$(/l) (0.25%)$(br)$(li)1 $(l:gaim/items/himawari_lockseed)Himawari Lockseed$(/l) (28.3%)$(li)1 $(l:gaim/items/lockseeds#proto_orange_lockseed)Proto Orange Lockseed$(/l) (15.1%)$(li)1 $(l:gaim/items/lockseeds#proto_banana_lockseed)Proto Banana Lockseed$(/l) (15.1%)$(li)1 $(l:gaim/items/lockseeds#proto_budou_lockseed)Proto Budou Lockseed$(/l) (15.1%)"
+		},
+		{
+			"type": "patchouli:text",
+			"text": "$(li)1 $(l:gaim/items/lockseeds#proto_donguri_lockseed)Proto Donguri Lockseed$(/l) (13.2%)$(li)1 $(l:gaim/items/lockseeds#proto_durian_lockseed)Proto Durian Lockseed$(/l) (13.2%)$(br2)Other loot:$(li)18 $(l:misc/items/foods#vienna_coffee)Vienna Coffee$(/l) (in a row of barrels on the third floor)$(li)3 $(l:misc/items/foods#helheim_fruit)Helheim Fruits$(/l) (on the desks in the sixth floor lab area)$(li)1 $(l:gaim/items/energy_lockseeds#proto_dragon_fruits_energy_lockseed)Proto Dragon Fruits Energy Lockseed$(/l) (on a table in Ryoma's office)"
+		},
+      {
+        "type": "patchouli:text",
+        "anchor": "kuruma_center",
+        "title": "Kuruma Center",
+        "text": "Appears in:$(li)Kamen Rider Drive (2014, TV show)$(br2)Mobs:$(li)$(l:drive/mobs/roidmude)Roidmude$(/l)$(br2)Cityscape: Suburban$(br2)Loot: None?"
+      },
+      {
+        "type": "patchouli:image",
+        "border": true,
+        "images": [
+          "kamenridercraft:patchouli_books/kamenridercraft/images/kuruma_center.png",
+          "kamenridercraft:patchouli_books/kamenridercraft/images/kuruma_center_2.png",
+          "kamenridercraft:patchouli_books/kamenridercraft/images/kuruma_center_3.png",
+          "kamenridercraft:patchouli_books/kamenridercraft/images/kuruma_center_4.png",
+          "kamenridercraft:patchouli_books/kamenridercraft/images/kuruma_center_5.png",
+          "kamenridercraft:patchouli_books/kamenridercraft/images/kuruma_center_6.png"
+        ],
+        "title": " "
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "seito_u_hospital",
+        "title": "Seito University Hospital",
+        "text": "Appears in:$(li)Kamen Rider Ex-Aid (2016, TV show)$(br2)Mobs:$(li)$(l:ex_aid/mobs/bugstervirus_mob)Bugster$(/l)$(br2)Cityscape: Suburban$(br2)Loot: 1 $(l:misc/items/music_discs#excite_music_disc)EXCITE Music Disc$(/l), 1 $(l:ex_aid/items/wonderswan)Wonderswan$(/l) (in a barrel at the CR meeting room)"
+      },
+      {
+        "type": "patchouli:image",
+        "border": true,
+        "images": [
+          "kamenridercraft:patchouli_books/kamenridercraft/images/seito_u_hospital.png",
+          "kamenridercraft:patchouli_books/kamenridercraft/images/seito_u_hospital_2.png",
+          "kamenridercraft:patchouli_books/kamenridercraft/images/seito_u_hospital_3.png",
+          "kamenridercraft:patchouli_books/kamenridercraft/images/seito_u_hospital_4.png",
+          "kamenridercraft:patchouli_books/kamenridercraft/images/seito_u_hospital_5.png",
+          "kamenridercraft:patchouli_books/kamenridercraft/images/seito_u_hospital_6.png"
+        ],
+        "title": " "
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "pandora_tower",
+        "title": "Pandora Tower",
+        "text": "Appears in:$(li)Kamen Rider Build (2017, TV show)$(br2)Mobs:$(li)$(l:build/mobs/touto_guardian)Touto Guardian$(/l)$(li)$(l:build/mobs/hokuto_guardian)Hokuto Guardian$(/l)$(li)$(l:build/mobs/seito_guardian)Seito Guardian$(/l)$(br2)Cityscape: Urban$(br2)Includes $(l:build/mobs/touto_guardian)Touto Guardian$(/l), $(l:build/mobs/hokuto_guardian)Hokuto Guardian$(/l), $(l:build/mobs/seito_guardian)Seito Guardian$(/l), and $(l:build/mobs/hard_guardian)Hard Guardian$(/l) trial spawners"
+      },
+      {
+        "type": "patchouli:image",
+        "border": true,
+        "images": [
+          "kamenridercraft:patchouli_books/kamenridercraft/images/pandora_tower_city.png",
+          "kamenridercraft:patchouli_books/kamenridercraft/images/pandora_tower_city_2.png",
+          "kamenridercraft:patchouli_books/kamenridercraft/images/pandora_tower_city_3.png"
+        ],
+        "title": " ",
+        "text": "Loot on next page"
+      },
+      {
+        "type": "patchouli:text",
+        "text": "Trial loot:$(li)67% chance to drop standard loot$(li)33% chance to drop Lost Fullbottles$(br2)Standard loot drops:$(li)1 $(l:build/items/fullbottles#buttobasoul_full_bottle)Buttobasoul Fullbottle$(/l) (7.7%)$(li)1 $(l:build/items/fullbottles#ganbarizing_full_bottle)Ganbarizing Fullbottle$(/l) (7.7%)$(li)2-4 $(l:build/items/smash_bottle)Smash Bottles$(/l) (23.1%)$(li)1 $(l:build/items/evolbottles#great_dragon_evol_bottle)Great Dragon Evol Bottle$(/l) (15.4%)$(li)1 $(l:build/items/evolbottles#dragon_evol_bottle)Dragon Evol Bottle$(/l) (15.4%)$(li)1 $(l:build/items/evolbottles#rabbit_evol_bottle)Rabbit Evol Bottle$(/l) (15.4%)"
+      },
+      {
+        "type": "patchouli:text",
+        "text": "$(li)1 $(l:build/arsenal/nanba_walking_stick)Nanba's Walking Stick$(/l) (15.4%)$(br2)Lost Fullbottle drops:$(li)1 $(l:build/items/fullbottles#black_lost_cd_full_bottle)Lost CD Fullbottle$(/l) (25%)$(li)1 $(l:build/items/fullbottles#black_lost_cobra_full_bottle)Lost Cobra Fullbottle$(/l) (25%)$(li)1 $(l:build/items/fullbottles#black_lost_shimauma_full_bottle)Lost Shimauma Fullbottle$(/l) (25%)$(li)1 $(l:build/items/fullbottles#black_lost_hasami_full_bottle)Lost Hasami Fullbottle$(/l) (25%)"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "hiden_intelligence",
+        "title": "Hiden Intelligence",
+        "text": "Appears in:$(li)Kamen Rider Zero-One (2019, TV show)$(br2)Mobs:$(li)$(l:zero_one/mobs/trilobite_magia)Trilobite Magia$(/l)$(br2)Cityscape: Urban$(br2)Chest loot:$(li)1 $(l:zero_one/items/progrisekeys#rising_hopper_progrisekey)Rising Hopper Progrisekey$(/l)$(br)$(li)3-7 $(l:zero_one/items/hiden_metal)Hiden Metal$(/l) (52.6% x2-3)$(li)4-6 $(l:zero_one/items/blank_progrisekey)Blank Progrisekeys$(/l) (15.8% x2-3)$(li)1 $(l:zero_one/items/humagear_progrisekey)Humagear Progrisekey$(/l) (31.6% x2-3)"
+      },
+      {
+        "type": "patchouli:image",
+        "border": true,
+        "images": [
+          "kamenridercraft:patchouli_books/kamenridercraft/images/hiden_intelligence.png",
+          "kamenridercraft:patchouli_books/kamenridercraft/images/hiden_intelligence_2.png",
+          "kamenridercraft:patchouli_books/kamenridercraft/images/hiden_intelligence_3.png",
+          "kamenridercraft:patchouli_books/kamenridercraft/images/hiden_intelligence_4.png",
+          "kamenridercraft:patchouli_books/kamenridercraft/images/hiden_intelligence_5.png",
+          "kamenridercraft:patchouli_books/kamenridercraft/images/hiden_intelligence_6.png"
+        ],
+        "title": " ",
+        "text": "Other loot: 1 $(l:zero_one/items/humagear_progrisekey)Humagear Progrisekey$(/l), 1 $(l:zero_one/items/progrisekeys#shesta_progrisekey)Shesta Progrisekey$(/l) (on display at the entrance)"
+      }
+    ]
+}

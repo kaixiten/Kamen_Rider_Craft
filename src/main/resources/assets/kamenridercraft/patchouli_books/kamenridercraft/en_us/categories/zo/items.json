@@ -1,0 +1,7 @@
+{
+	"parent": "kamenridercraft:zo/main",
+    "name": "ZO Stone",
+    "description": "",
+    "icon": "kamenridercraft:zo_stone",
+    "sortnum": 2
+}

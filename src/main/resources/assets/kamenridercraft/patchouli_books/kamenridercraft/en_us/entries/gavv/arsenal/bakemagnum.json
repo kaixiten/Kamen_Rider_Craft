@@ -1,0 +1,17 @@
+{
+	"name": "Bakemagnum",
+	"icon": "kamenridercraft:bakemagnum",
+	"category": "kamenridercraft:gavv/arsenal",
+	"sortnum": 15,
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Used by $(l:gavv/riders/bake)Kamen Rider Bake$(/l)$(br2)Used to obtain Bake's $(l:gavv/devices/bakebuckle)Bakebuckle$(/l)$(br2)Can free villagers from $(l:gavv/items/heatpress)Hitpresses$(/l) when held in your off-hand"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "kamenridercraft:gavv/bakemagnum",
+          "text": "Drops from:$(li)$(l:gavv/mobs/bitter_gavv)Kamen Rider Bitter Gavv$(/l)'s equipment (in Marble Breacookie Form)$(li)$(l:gavv/mobs/jeeb_stomach)Jeeb Stomach$(/l)'s equipment (as Kamen Rider Bitter Gavv Bakibaki Stick Form)"
+		}
+	]
+}

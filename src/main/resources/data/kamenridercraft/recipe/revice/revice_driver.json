@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "revice",
+  "pattern": [
+	"XXX",
+	"XCX",
+	"XXX"
+  ],
+  "key": {
+	"X": {
+	  "item": "kamenridercraft:proto_vistamp"
+	}, "C": {
+	  "item": "kamenridercraft:rex_vistamp"
+	}
+  },
+  "result": {
+	"id": "kamenridercraft:revice_driver"
+  }
+}

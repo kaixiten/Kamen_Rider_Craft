@@ -1,0 +1,21 @@
+{
+	"name": "Kamen Rider Kanon Specter",
+	"icon": "kamenridercraft:kanon_specter_driver",
+	"category": "kamenridercraft:ghost/riders",
+	"sortnum": 6,
+	"pages": [
+		{
+			"type": "patchouli:entity",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:kanon_specter_driver\",components:{custom_data:{slot_tex1:\"kamenridercraft:kanon_specter_ghost_eyecon\",slot_tex2:\"kamenridercraft:kanon_specter_damashii\"}},Count:1b},{id:\"kamenridercraft:ghost_legs\",Count:1b},{id:\"kamenridercraft:ghost_troso\",Count:1b},{id:\"kamenridercraft:ghost_head\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": "Kanon Specter Damashii",
+			"text": "Accessed with the $(l:ghost/items/ghost_eyecons#kanon_specter_ghost_eyecon)Kanon Specter Ghost Eyecon$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Kamen Rider Kanon Specter",
+			"text": "Appears in:$(li)Kamen Rider Specter x Blades (2021, TTFC special)$(br2)Transforms with the $(l:ghost/devices/ghost_driver#kanon_specter_driver)Ghost Driver$(/l)$(br2)This form can be used by any Ghost Driver or Mega Ulorder user$(br2)Status Effects:$(li)Speed"
+		}
+	]
+}

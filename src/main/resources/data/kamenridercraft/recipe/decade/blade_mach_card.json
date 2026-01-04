@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "attack_ride_card",
+  "ingredients": [
+{
+	
+	  "item": "kamenridercraft:blade_ace_card"
+	}, 
+	{
+	  "tag": "minecraft:foot_armor"
+	}
+	],
+  "result": {
+	"id": "kamenridercraft:blade_mach_card"
+  }
+}

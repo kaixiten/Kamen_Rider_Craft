@@ -1,0 +1,64 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "kamenridercraft:steamliner_repli_chemy_card"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "kamenridercraft:unicon_repli_chemy_card"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "kamenridercraft:daiohni_repli_chemy_card"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "kamenridercraft:madwheel_repli_chemy_card"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "kamenridercraft:bulletbaang_repli_chemy_card"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "kamenridercraft:apparebushido_repli_chemy_card"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "kamenridercraft:kamantis_repli_chemy_card"
+        },
+        {
+          "type": "minecraft:empty"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "kamenridercraft:blank_ride_chemy_card",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 3,
+                "max": 5
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

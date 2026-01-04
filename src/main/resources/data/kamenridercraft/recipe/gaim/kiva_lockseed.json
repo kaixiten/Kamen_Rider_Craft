@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "legend_lockseed",
+  "ingredients": [
+{
+    
+      "item": "kamenridercraft:helheim_fruit"
+    }, 
+    {
+      "item": "kamenridercraft:wakeupfuestle"
+    } 
+    ],
+  "result": {
+    "id": "kamenridercraft:kiva_lockseed"
+  }
+}

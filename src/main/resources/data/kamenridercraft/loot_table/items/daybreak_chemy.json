@@ -1,0 +1,62 @@
+{
+  "type": "minecraft:equipment",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "kamenridercraft:daybreak_hopper1_ride_chemy_card",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "kamenridercraft:skebows_daybreak_ride_chemy_card",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "kamenridercraft:raidenji_daybreak_ride_chemy_card",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "kamenridercraft:mechanichani_daybreak_ride_chemy_card",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "kamenridercraft:bulletbaang_daybreak_ride_chemy_card",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "kamenridercraft:apparebushido_daybreak_ride_chemy_card",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "kamenridercraft:golddash_daybreak_ride_chemy_card",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "kamenridercraft:junglejan_daybreak_ride_chemy_card",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "kamenridercraft:daybreak_steamliner_ride_chemy_card",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "kamenridercraft:timelord_daybreak_ride_chemy_card",
+          "weight": 2
+        }
+      ]
+    }
+  ],
+  "random_sequence": "kamenridercraft:gift"
+}

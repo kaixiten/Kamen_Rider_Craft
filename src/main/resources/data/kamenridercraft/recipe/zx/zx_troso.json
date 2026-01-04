@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "group": "kr_zx",
+  "ingredients": [
+{
+	
+	  "item": "kamenridercraft:ichigotroso"
+	}, 
+	{
+	  "item": "kamenridercraft:zx_belt_core"
+	} 
+	],
+  "result": {
+	"id": "kamenridercraft:zxtroso"
+  }
+}

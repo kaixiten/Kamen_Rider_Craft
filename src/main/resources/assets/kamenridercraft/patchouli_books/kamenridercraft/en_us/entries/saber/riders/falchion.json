@@ -1,0 +1,36 @@
+{
+	"name": "Kamen Rider Falchion",
+	"icon": "kamenridercraft:haken_bladriver_falchion",
+	"category": "kamenridercraft:saber/riders",
+	"sortnum": 10,
+	"pages": [
+		{
+			"type": "patchouli:entity",
+			"anchor": "eternal_phoenix",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:haken_bladriver_falchion\",components:{custom_data:{slot_tex1:\"kamenridercraft:eternal_phoenix_wonder_ride_book_falchion\"}},Count:1b},{id:\"kamenridercraft:saberlegs\",Count:1b},{id:\"kamenridercraft:sabertroso\",Count:1b},{id:\"kamenridercraft:saberhead\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": "Eternal Phoenix",
+			"text": "Accessed with the $(l:saber/items/wonder_ride_books#eternal_phoenix_wonder_ride_book)Eternal Phoenix Wonder Ride Book"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Kamen Rider Falchion",
+			"text": "Appears in:$(li)Kamen Rider Saber: The Phoenix Swordsman and the Book of Ruin (2020, movie)$(br2)Transforms with the $(l:saber/devices/haken_bladriver#haken_bladriver_falchion)Haken Bladriver$(/l)$(br2)Status Effects:$(li)Slash$(li)Strength (with sword)$(li)Regeneration$(li)Haste III$(li)Flying"
+		},
+		{
+			"type": "patchouli:entity",
+			"anchor": "amazing_siren",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:haken_bladriver_falchion\",components:{custom_data:{slot_tex1:\"kamenridercraft:amazing_siren_wonder_ride_book\"}},Count:1b},{id:\"kamenridercraft:saberlegs\",Count:1b},{id:\"kamenridercraft:sabertroso\",Count:1b},{id:\"kamenridercraft:saberhead\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": "Amazing Siren",
+			"text": "Accessed with the $(l:saber/items/wonder_ride_books#amazing_siren_wonder_ride_book)Amazing Siren Wonder Ride Book"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Kamen Rider Falchion",
+			"text": "Appears in:$(li)Kamen Rider Saber: Trio of Deep Sin (2022, V-Cinema film)$(br2)Transforms with the $(l:saber/devices/haken_bladriver#haken_bladriver_falchion)Haken Bladriver$(/l)$(br2)Status Effects:$(li)Slash$(li)Speed VII$(li)Resistance IV$(li)Regeneration$(li)Haste III$(li)Jump Boost VII$(li)Strength III$(li)Flying"
+		}
+	]
+}

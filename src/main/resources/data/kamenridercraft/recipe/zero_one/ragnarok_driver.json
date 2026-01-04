@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "ragnarok",
+  "pattern": [
+    "XXX",
+    "XCX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "kamenridercraft:hiden_metal"
+    }, "C": {
+      "item": "kamenridercraft:red_rising_hopper_progrisekey"
+    }
+  },
+  "result": {
+    "id": "kamenridercraft:ragnarok_driver"
+  }
+}

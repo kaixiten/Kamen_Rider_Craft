@@ -1,0 +1,16 @@
+{
+	"name": "Spannerder and Screwder",
+	"icon": "kamenridercraft:spannerder_screwder",
+	"category": "kamenridercraft:zi_o/items",
+	"sortnum": 14,
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"text": "Appears in:$(li)Kamen Rider Zi-O (2018, TV show)$(br2)Used to craft Kikai's $(l:zi_o/devices/kikai_driver)Kikai Driver$(/l)"
+		},
+		{
+          "type": "patchouli:crafting",
+          "recipe": "kamenridercraft:zi_o/spannerder_screwder"
+		}
+	]
+}

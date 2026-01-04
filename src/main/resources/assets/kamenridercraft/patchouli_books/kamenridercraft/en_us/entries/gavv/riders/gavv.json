@@ -1,0 +1,456 @@
+{
+	"name": "Kamen Rider Gavv",
+	"icon": "kamenridercraft:poppingummy_gochizo",
+	"category": "kamenridercraft:gavv/riders",
+	"sortnum": 0,
+	"pages": [
+		{
+			"type": "patchouli:entity",
+			"anchor": "poppingummy",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:henshin_belt_gavv\",components:{custom_data:{slot_tex1:\"kamenridercraft:poppingummy_gochizo\"}},Count:1b},{id:\"kamenridercraft:gavv_legs\",Count:1b},{id:\"kamenridercraft:gavv_troso\",Count:1b},{id:\"kamenridercraft:gavv_head\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": "Poppingummy Form",
+			"text": "Accessed with the $(l:gavv/items/gochizo#poppingummy_gochizo)Poppingummy Gochizo$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Kamen Rider Gavv",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Transforms with the $(l:gavv/devices/henshin_belt_gavv)Henshin Belt Gavv$(/l)$(br2)Status Effects:$(li)Speed$(li)Jump Boost II"
+		},
+		{
+			"type": "patchouli:entity",
+			"anchor": "punchingummy",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:henshin_belt_gavv\",components:{custom_data:{slot_tex1:\"kamenridercraft:punchingummy_gochizo\"}},Count:1b},{id:\"kamenridercraft:gavv_legs\",Count:1b},{id:\"kamenridercraft:gavv_troso\",Count:1b},{id:\"kamenridercraft:gavv_head\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": "Punchingummy Assist",
+			"text": "Accessed with the $(l:gavv/items/gochizo#punchingummy_gochizo)Punchingummy Gochizo$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Kamen Rider Gavv",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Transforms with the $(l:gavv/devices/henshin_belt_gavv)Henshin Belt Gavv$(/l)$(br2)Status Effects:$(li)Strength VII (with empty hand)$(li)Punch IV$(li)Jump Boost II"
+		},
+		{
+			"type": "patchouli:entity",
+			"anchor": "kickingummy",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:henshin_belt_gavv\",components:{custom_data:{slot_tex1:\"kamenridercraft:kickingummy_gochizo\"}},Count:1b},{id:\"kamenridercraft:gavv_legs\",Count:1b},{id:\"kamenridercraft:gavv_troso\",Count:1b},{id:\"kamenridercraft:gavv_head\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": "Kickingummy Assist",
+			"text": "Accessed with the $(l:gavv/items/gochizo#kickingummy_gochizo)Kickingummy Gochizo$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Kamen Rider Gavv",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Transforms with the $(l:gavv/devices/henshin_belt_gavv)Henshin Belt Gavv$(/l)$(br2)Status Effects:$(li)Strength VII (with empty hand)$(li)Punch IV$(li)Jump Boost II"
+		},
+		{
+			"type": "patchouli:entity",
+			"anchor": "kickingummy_punchingummy",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:henshin_belt_gavv\",components:{custom_data:{slot_tex1:\"kamenridercraft:kickingummy_punchingummy_gochizo\"}},Count:1b},{id:\"kamenridercraft:gavv_legs\",Count:1b},{id:\"kamenridercraft:gavv_troso\",Count:1b},{id:\"kamenridercraft:gavv_head\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": "Kickingummy&Punchingummy Assist",
+			"text": "Accessed by shift-clicking the $(l:gavv/items/gochizo#kickingummy_gochizo)Kickingummy$(/l) or $(l:gavv/items/gochizo#punchingummy_gochizo)Punchingummy Gochizo$(/l) with the other Gochizo in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Kamen Rider Gavv",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Transforms with the $(l:gavv/devices/henshin_belt_gavv)Henshin Belt Gavv$(/l)$(br2)Status Effects:$(li)Strength VII (with empty hand)$(li)Punch IV$(li)Jump Boost II"
+		},
+		{
+			"type": "patchouli:entity",
+			"anchor": "zakuzakuchips",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:henshin_belt_gavv\",components:{custom_data:{slot_tex1:\"kamenridercraft:zakuzakuchips_gochizo\"}},Count:1b},{id:\"kamenridercraft:gavv_legs\",Count:1b},{id:\"kamenridercraft:gavv_troso\",Count:1b},{id:\"kamenridercraft:gavv_head\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": "Zakuzakuchips Form",
+			"text": "Accessed with the $(l:gavv/items/gochizo#zakuzakuchips_gochizo)Zakuzakuchips Gochizo$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Kamen Rider Gavv",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Transforms with the $(l:gavv/devices/henshin_belt_gavv)Henshin Belt Gavv$(/l)$(br2)Status Effects:$(li)Slash II$(li)Jump Boost II$(li)Strength II (with sword)"
+		},
+		{
+			"type": "patchouli:entity",
+			"anchor": "hirihirichips",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:henshin_belt_gavv\",components:{custom_data:{slot_tex1:\"kamenridercraft:hirihirichips_gochizo\"}},Count:1b},{id:\"kamenridercraft:gavv_legs\",Count:1b},{id:\"kamenridercraft:gavv_troso\",Count:1b},{id:\"kamenridercraft:gavv_head\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": "Hirihirichips Assist",
+			"text": "Accessed with the $(l:gavv/items/gochizo#hirihirichips_gochizo)Hirihirichips Gochizo$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Kamen Rider Gavv",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Transforms with the $(l:gavv/devices/henshin_belt_gavv)Henshin Belt Gavv$(/l)$(br2)Status Effects:$(li)Flame Slash II$(li)Jump Boost II"
+		},
+		{
+			"type": "patchouli:entity",
+			"anchor": "fuwamallow",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:henshin_belt_gavv\",components:{custom_data:{slot_tex1:\"kamenridercraft:fuwamallow_gochizo\"}},Count:1b},{id:\"kamenridercraft:gavv_legs\",Count:1b},{id:\"kamenridercraft:gavv_troso\",Count:1b},{id:\"kamenridercraft:gavv_head\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": "Fuwamallow Form",
+			"text": "Accessed with the $(l:gavv/items/gochizo#fuwamallow_gochizo)Fuwamallow Gochizo$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Kamen Rider Gavv",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Transforms with the $(l:gavv/devices/henshin_belt_gavv)Henshin Belt Gavv$(/l)$(br2)Status Effects:$(li)Speed$(li)Jump Boost II"
+		},
+		{
+			"type": "patchouli:entity",
+			"anchor": "marumallow",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:henshin_belt_gavv\",components:{custom_data:{slot_tex1:\"kamenridercraft:marumallow_gochizo\"}},Count:1b},{id:\"kamenridercraft:gavv_legs\",Count:1b},{id:\"kamenridercraft:gavv_troso\",Count:1b},{id:\"kamenridercraft:gavv_head\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": "Marumallow Assist",
+			"text": "Accessed with the $(l:gavv/items/gochizo#marumallow_gochizo)Marumallow Gochizo$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Kamen Rider Gavv",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Transforms with the $(l:gavv/devices/henshin_belt_gavv)Henshin Belt Gavv$(/l)$(br2)Status Effects:$(li)Giant$(li)Speed"
+		},
+		{
+			"type": "patchouli:entity",
+			"anchor": "chocodan",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:henshin_belt_gavv\",components:{custom_data:{slot_tex1:\"kamenridercraft:chocodan_gochizo\"}},Count:1b},{id:\"kamenridercraft:gavv_legs\",Count:1b},{id:\"kamenridercraft:gavv_troso\",Count:1b},{id:\"kamenridercraft:gavv_head\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": "Chocodan Form",
+			"text": "Accessed with the $(l:gavv/items/gochizo#chocodan_gochizo)Chocodan Gochizo$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Kamen Rider Gavv",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Transforms with the $(l:gavv/devices/henshin_belt_gavv)Henshin Belt Gavv$(/l)$(br2)Status Effects:$(li)Shot Boost$(li)Speed"
+		},
+		{
+			"type": "patchouli:entity",
+			"anchor": "gurucan",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:henshin_belt_gavv\",components:{custom_data:{slot_tex1:\"kamenridercraft:gurucan_gochizo\"}},Count:1b},{id:\"kamenridercraft:gavv_legs\",Count:1b},{id:\"kamenridercraft:gavv_troso\",Count:1b},{id:\"kamenridercraft:gavv_head\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": "Gurucan Form",
+			"text": "Accessed with the $(l:gavv/items/gochizo#gurucan_gochizo)Gurucan Gochizo$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Kamen Rider Gavv",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Transforms with the $(l:gavv/devices/henshin_belt_gavv)Henshin Belt Gavv$(/l)$(br2)Status Effects:$(li)Giant$(li)Gravity$(li)Slowness II$(li)Resistance II"
+		},
+      {
+        "type": "patchouli:entity",
+        "anchor": "bakucan",
+        "entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:henshin_belt_gavv\",components:{custom_data:{slot_tex1:\"kamenridercraft:bakucan_gochizo\"}},Count:1b},{id:\"kamenridercraft:gavv_legs\",Count:1b},{id:\"kamenridercraft:gavv_troso\",Count:1b},{id:\"kamenridercraft:gavv_head\",Count:1b}]}",
+        "scale": -1,
+        "offset": 0.1,
+        "name": "Bakucan Assist",
+        "text": "Accessed with the $(l:gavv/items/gochizo#bakucan_gochizo)Bakucan Gochizo$(/l)"
+      },
+      {
+        "type": "patchouli:text",
+        "title": "Kamen Rider Gavv",
+        "text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Transforms with the $(l:gavv/devices/henshin_belt_gavv)Henshin Belt Gavv$(/l)$(br2)Status Effects:$(li)Giant$(li)Cannon$(li)Gravity$(li)Slowness II$(li)Resistance II"
+      },
+		{
+			"type": "patchouli:entity",
+			"anchor": "bushel",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:henshin_belt_gavv\",components:{custom_data:{slot_tex1:\"kamenridercraft:bushel_gochizo\"}},Count:1b},{id:\"kamenridercraft:gavv_legs\",Count:1b},{id:\"kamenridercraft:gavv_troso\",Count:1b},{id:\"kamenridercraft:gavv_head\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": "Bushel Form",
+			"text": "Accessed with the $(l:gavv/items/gochizo#bushel_gochizo)Bushel Gochizo$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Kamen Rider Gavv",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Transforms with the $(l:gavv/devices/henshin_belt_gavv)Henshin Belt Gavv$(/l)$(br2)Status Effects:$(li)Merry Christmas$(li)Explosive Slash$(li)Strength"
+		},
+		{
+			"type": "patchouli:entity",
+			"anchor": "caking",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:henshin_belt_gavv\",components:{custom_data:{slot_tex1:\"kamenridercraft:caking_gochizo\"}},Count:1b},{id:\"kamenridercraft:gavv_legs\",Count:1b},{id:\"kamenridercraft:gavv_troso\",Count:1b},{id:\"kamenridercraft:gavv_head\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": "Caking Form",
+			"text": "Accessed with the $(l:gavv/items/gochizo#caking_gochizo)Caking Gochizo$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Kamen Rider Gavv",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Transforms with the $(l:gavv/devices/henshin_belt_gavv)Henshin Belt Gavv$(/l)$(br2)Status Effects:$(li)Hunger$(li)Strength II$(li)Resistance$(li)Speed"
+		},
+		{
+			"type": "patchouli:entity",
+			"anchor": "blizzardsorbet",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:henshin_belt_gavv\",components:{custom_data:{slot_tex1:\"kamenridercraft:blizzardsorbei_gochizo\"}},Count:1b},{id:\"kamenridercraft:gavv_legs\",Count:1b},{id:\"kamenridercraft:gavv_troso\",Count:1b},{id:\"kamenridercraft:gavv_head\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": "Blizzardsorbet Form",
+			"text": "Accessed with the $(l:gavv/items/gochizo#blizzardsorbei_gochizo)Blizzardsorbei Gochizo$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Kamen Rider Gavv",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Transforms with the $(l:gavv/devices/henshin_belt_gavv)Henshin Belt Gavv$(/l)$(br2)Status Effects:$(li)Speed$(li)Blizzard$(li)Resistance II$(li)Strength III"
+		},
+		{
+			"type": "patchouli:entity",
+			"anchor": "over",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:henshin_belt_gavv\",components:{custom_data:{slot_tex1:\"kamenridercraft:gochipod\"}},Count:1b},{id:\"kamenridercraft:gavv_legs\",Count:1b},{id:\"kamenridercraft:gavv_troso\",Count:1b},{id:\"kamenridercraft:gavv_head\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": "Over Mode",
+			"text": "Accessed with the $(l:gavv/items/gochipod)Gochipod$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Kamen Rider Gavv",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Transforms with the $(l:gavv/devices/henshin_belt_gavv)Henshin Belt Gavv$(/l)$(br2)Status Effects:$(li)Punch VII$(li)Strength X (with empty hand)$(li)Strength V (with weapon)$(li)Explosive Punch$(li)Gravity$(li)Slowness II$(li)Resistance IV$(li)Jump Boost II"
+		},
+		{
+			"type": "patchouli:entity",
+			"anchor": "master",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:henshin_belt_gavv\",components:{custom_data:{slot_tex1:\"kamenridercraft:gochipod_master\"}},Count:1b},{id:\"kamenridercraft:gavv_legs\",Count:1b},{id:\"kamenridercraft:gavv_troso\",Count:1b},{id:\"kamenridercraft:gavv_head\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": "Master Mode",
+			"text": "Accessed with the $(l:gavv/items/gochipod)Gochipod$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Kamen Rider Gavv",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Transforms with the $(l:gavv/devices/henshin_belt_gavv)Henshin Belt Gavv$(/l)$(br2)Status Effects:$(li)Strength V$(li)Speed III$(li)Resistance IV$(li)Jump Boost VII"
+		},
+      {
+        "type": "patchouli:entity",
+        "anchor": "amazingummy",
+        "entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:henshin_belt_gavv\",components:{custom_data:{slot_tex1:\"kamenridercraft:amazingummy_gochizo\"}},Count:1b},{id:\"kamenridercraft:gavv_legs\",Count:1b},{id:\"kamenridercraft:gavv_troso\",Count:1b},{id:\"kamenridercraft:gavv_head\",Count:1b}]}",
+        "scale": -1,
+        "offset": 0.1,
+        "name": "Amazingummy Form",
+        "text": "Accessed with the $(l:gavv/items/gochizo#amazingummy_gochizo)Amazingummy Gochizo$(/l)"
+      },
+      {
+        "type": "patchouli:text",
+        "title": "Kamen Rider Gavv",
+        "text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Transforms with the $(l:gavv/devices/henshin_belt_gavv)Henshin Belt Gavv$(/l)$(br2)Status Effects:$(li)Punch VI$(li)Strength IX (with empty hand)$(li)Radar$(li)Speed II$(li)Resistance III$(li)Flame Slash$(li)Jump Boost III"
+      },
+      {
+        "type": "patchouli:entity",
+        "anchor": "hexenheim",
+        "entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:henshin_belt_gavv\",components:{custom_data:{slot_tex1:\"kamenridercraft:hexenheim_gochizo\"}},Count:1b},{id:\"kamenridercraft:gavv_legs\",Count:1b},{id:\"kamenridercraft:gavv_troso\",Count:1b},{id:\"kamenridercraft:gavv_head\",Count:1b}]}",
+        "scale": -1,
+        "offset": 0.1,
+        "name": "Hexenheim Form",
+        "text": "Accessed with the $(l:gavv/items/gochizo#hexenheim_gochizo)Hexenheim Gochizo$(/l)"
+      },
+      {
+        "type": "patchouli:text",
+        "title": "Kamen Rider Gavv",
+        "text": "Appears in:$(li)Kamen Rider Gavv: Invaders of the House of Snacks (2025, movie)$(br2)Transforms with the $(l:gavv/devices/henshin_belt_gavv)Henshin Belt Gavv$(/l)$(br2)Status Effects:$(li)Slash IV$(li)Strength IV (with sword)$(li)Strength III (with empty hand)$(li)Speed$(li)Resistance III"
+      },
+		{
+			"type": "patchouli:entity",
+			"anchor": "shield_snack",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:henshin_belt_gavv\",components:{custom_data:{slot_tex1:\"kamenridercraft:kungfu_ramen_gochizo\"}},Count:1b},{id:\"kamenridercraft:gavv_legs\",Count:1b},{id:\"kamenridercraft:gavv_troso\",Count:1b},{id:\"kamenridercraft:gavv_head\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": "Shield Snack Form",
+			"text": "Accessed with the $(l:gavv/items/gochizo#kungfu_ramen_gochizo)Kungfu Ramen Gochizo$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Kamen Rider Gavv",
+			"text": "Appears in:$(li)Kamen Rider Gavv: The Snacks Gourmet Woo!-mai Wakamen!! (2025, Hyper Battle Video)$(br2)Transforms with the $(l:gavv/devices/henshin_belt_gavv)Henshin Belt Gavv$(/l)$(br2)Status Effects:$(li)Punch III$(li)Strength VI (with empty hand)$(li)Resistance"
+		},
+		{
+			"type": "patchouli:entity",
+			"anchor": "choco_t",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:henshin_belt_gavv\",components:{custom_data:{slot_tex1:\"kamenridercraft:choco_treasure_gochizo\"}},Count:1b},{id:\"kamenridercraft:gavv_legs\",Count:1b},{id:\"kamenridercraft:gavv_troso\",Count:1b},{id:\"kamenridercraft:gavv_head\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": "Choco T Assist",
+			"text": "Accessed with the $(l:gavv/items/gochizo#choco_treasure_gochizo)Choco Treasure Gochizo$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Kamen Rider Gavv",
+			"text": "Appears in:$(li)Kamen Rider Gavv: The Snacks Gourmet Woo!-mai Wakamen!! (2025, Hyper Battle Video)$(br2)Transforms with the $(l:gavv/devices/henshin_belt_gavv)Henshin Belt Gavv$(/l)$(br2)Status Effects:$(li)Punch III$(li)Strength VI (with empty hand)$(li)Resistance"
+		},
+      {
+        "type": "patchouli:entity",
+        "anchor": "shot_snack",
+        "entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:henshin_belt_gavv\",components:{custom_data:{slot_tex1:\"kamenridercraft:umaibo_gochizo\"}},Count:1b},{id:\"kamenridercraft:gavv_legs\",Count:1b},{id:\"kamenridercraft:gavv_troso\",Count:1b},{id:\"kamenridercraft:gavv_head\",Count:1b}]}",
+        "scale": -1,
+        "offset": 0.1,
+        "name": "Shot Snack Form",
+        "text": "Accessed with the $(l:gavv/items/gochizo#umaibo_gochizo)Umaibo Gochizo$(/l)"
+      },
+      {
+        "type": "patchouli:text",
+        "title": "Kamen Rider Gavv",
+        "text": "Appears in:$(li)DX Rider Gochizo Special Set -Umaibo Collaboration Ver- (2025, toyline)$(br2)Transforms with the $(l:gavv/devices/henshin_belt_gavv)Henshin Belt Gavv$(/l)$(br2)Status Effects:$(li)Punch III$(li)Strength VI (with empty hand)$(li)Resistance"
+      },
+		{
+			"type": "patchouli:entity",
+			"anchor": "partea_scone",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:henshin_belt_gavv\",components:{custom_data:{slot_tex1:\"kamenridercraft:partea_gochizo\"}},Count:1b},{id:\"kamenridercraft:gavv_legs\",Count:1b},{id:\"kamenridercraft:gavv_troso\",Count:1b},{id:\"kamenridercraft:gavv_head\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": "Partea Scone Form",
+			"text": "Accessed with the $(l:gavv/items/gochizo#partea_gochizo)Partea Scone Gochizo$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Kamen Rider Gavv",
+			"text": "Appears in:$(li)Kamen Rider Gavv: Funny Sweets Tea Party (2025, stage show)$(br2)Transforms with the $(l:gavv/devices/henshin_belt_gavv)Henshin Belt Gavv$(/l)$(br2)Status Effects:$(li)Punch II$(li)Strength V (with empty hand)$(li)Resistance"
+		},
+      {
+        "type": "patchouli:entity",
+        "anchor": "kin_choco",
+        "entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:henshin_belt_gavv\",components:{custom_data:{slot_tex1:\"kamenridercraft:kinchoco_gochizo\"}},Count:1b},{id:\"kamenridercraft:gavv_legs\",Count:1b},{id:\"kamenridercraft:gavv_troso\",Count:1b},{id:\"kamenridercraft:gavv_head\",Count:1b}]}",
+        "scale": -1,
+        "offset": 0.1,
+        "name": "Kin Choco Form",
+        "text": "Accessed with the $(l:gavv/items/gochizo#kinchoco_gochizo)Kin Choco Gochizo$(/l)"
+      },
+      {
+        "type": "patchouli:text",
+        "title": "Kamen Rider Gavv",
+        "text": "Appears in:$(li)Kamen Rider Gavv: Final Stage (2025, stage show)$(br2)Transforms with the $(l:gavv/devices/henshin_belt_gavv)Henshin Belt Gavv$(/l)$(br2)Status Effects:$(li)Shot Boost II$(li)Resistance"
+      },
+      {
+        "type": "patchouli:entity",
+        "anchor": "uirou",
+        "entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:henshin_belt_gavv\",components:{custom_data:{slot_tex1:\"kamenridercraft:uirou_gochizo\"}},Count:1b},{id:\"kamenridercraft:gavv_legs\",Count:1b},{id:\"kamenridercraft:gavv_troso\",Count:1b},{id:\"kamenridercraft:gavv_head\",Count:1b}]}",
+        "scale": -1,
+        "offset": 0.1,
+        "name": "Uirou Form",
+        "text": "Accessed with the $(l:gavv/items/gochizo#uirou_gochizo)Uirou Gochizo$(/l)"
+      },
+      {
+        "type": "patchouli:text",
+        "title": "Kamen Rider Gavv",
+        "text": "Appears in:$(li)Kamen Rider Gavv: Final Stage (2025, stage show)$(br2)Transforms with the $(l:gavv/devices/henshin_belt_gavv)Henshin Belt Gavv$(/l)$(br2)Status Effects:$(li)Slash II$(li)Strength II (with sword)$(li)Speed II"
+      },
+      {
+        "type": "patchouli:entity",
+        "anchor": "men_sen",
+        "entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:henshin_belt_gavv\",components:{custom_data:{slot_tex1:\"kamenridercraft:mensen_gochizo\"}},Count:1b},{id:\"kamenridercraft:gavv_legs\",Count:1b},{id:\"kamenridercraft:gavv_troso\",Count:1b},{id:\"kamenridercraft:gavv_head\",Count:1b}]}",
+        "scale": -1,
+        "offset": 0.1,
+        "name": "Men Sen Form",
+        "text": "Accessed with the $(l:gavv/items/gochizo#mensen_gochizo)Men Sen Gochizo$(/l)"
+      },
+      {
+        "type": "patchouli:text",
+        "title": "Kamen Rider Gavv",
+        "text": "Appears in:$(li)Kamen Rider Gavv: Final Stage (2025, stage show)$(br2)Transforms with the $(l:gavv/devices/henshin_belt_gavv)Henshin Belt Gavv$(/l)$(br2)Status Effects:$(li)Strength II$(li)Resistance"
+      },
+      {
+        "type": "patchouli:entity",
+        "anchor": "tako_sen",
+        "entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:henshin_belt_gavv\",components:{custom_data:{slot_tex1:\"kamenridercraft:takosen_gochizo\"}},Count:1b},{id:\"kamenridercraft:gavv_legs\",Count:1b},{id:\"kamenridercraft:gavv_troso\",Count:1b},{id:\"kamenridercraft:gavv_head\",Count:1b}]}",
+        "scale": -1,
+        "offset": 0.1,
+        "name": "Tako Sen Form",
+        "text": "Accessed with the $(l:gavv/items/gochizo#takosen_gochizo)Tako Sen Gochizo$(/l)"
+      },
+      {
+        "type": "patchouli:text",
+        "title": "Kamen Rider Gavv",
+        "text": "Appears in:$(li)Kamen Rider Gavv: Final Stage (2025, stage show)$(br2)Transforms with the $(l:gavv/devices/henshin_belt_gavv)Henshin Belt Gavv$(/l)$(br2)Status Effects:$(li)Long Arm II$(li)Haste II"
+      },
+      {
+        "type": "patchouli:entity",
+        "anchor": "ningyo",
+        "entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:henshin_belt_gavv\",components:{custom_data:{slot_tex1:\"kamenridercraft:ningyo_gochizo\"}},Count:1b},{id:\"kamenridercraft:gavv_legs\",Count:1b},{id:\"kamenridercraft:gavv_troso\",Count:1b},{id:\"kamenridercraft:gavv_head\",Count:1b}]}",
+        "scale": -1,
+        "offset": 0.1,
+        "name": "Ningyo Form",
+        "text": "Accessed with the $(l:gavv/items/gochizo#ningyo_gochizo)Ningyo Gochizo$(/l)"
+      },
+      {
+        "type": "patchouli:text",
+        "title": "Kamen Rider Gavv",
+        "text": "Appears in:$(li)Kamen Rider Gavv: Final Stage (2025, stage show)$(br2)Transforms with the $(l:gavv/devices/henshin_belt_gavv)Henshin Belt Gavv$(/l)$(br2)Status Effects:$(li)Slash II$(li)Strength II (with sword)$(li)Speed"
+      },
+		{
+			"type": "patchouli:entity",
+			"anchor": "chocohone",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:henshin_belt_gavv\",components:{custom_data:{slot_tex1:\"kamenridercraft:charapaki_gochizo\"}},Count:1b},{id:\"kamenridercraft:gavv_legs\",Count:1b},{id:\"kamenridercraft:gavv_troso\",Count:1b},{id:\"kamenridercraft:gavv_head\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": "Chocohone Form",
+			"text": "Accessed with the $(l:gavv/items/gochizo#charapaki_gochizo)Charapaki Gochizo$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Kamen Rider Gavv",
+			"text": "Appears in:$(li)SG Charapaki Gochizo (2024, toyline)$(br2)Transforms with the $(l:gavv/devices/henshin_belt_gavv)Henshin Belt Gavv$(/l)$(br2)Status Effects:$(li)Speed V$(li)Jump Boost II"
+		},
+		{
+			"type": "patchouli:entity",
+			"anchor": "chocohone_special",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:henshin_belt_gavv\",components:{custom_data:{slot_tex1:\"kamenridercraft:charapaki_gochizo_special\"}},Count:1b},{id:\"kamenridercraft:gavv_legs\",Count:1b},{id:\"kamenridercraft:gavv_troso\",Count:1b},{id:\"kamenridercraft:gavv_head\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": "Chocohone Form",
+			"text": "Accessed with the $(l:gavv/items/gochizo#charapaki_gochizo_special)Charapaki Gochizo (Special Ver.)$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Kamen Rider Gavv",
+			"text": "Appears in:$(li)SG Charapaki Gochizo (2024, toyline)$(br2)Transforms with the $(l:gavv/devices/henshin_belt_gavv)Henshin Belt Gavv$(/l)$(br2)Status Effects:$(li)Speed V$(li)Jump Boost II"
+		},
+		{
+			"type": "patchouli:entity",
+			"anchor": "fishingummy",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:henshin_belt_gavv\",components:{custom_data:{slot_tex1:\"kamenridercraft:tsurigummy_gochizo\"}},Count:1b},{id:\"kamenridercraft:gavv_legs\",Count:1b},{id:\"kamenridercraft:gavv_troso\",Count:1b},{id:\"kamenridercraft:gavv_head\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": "Fishingummy Assist",
+			"text": "Accessed with the $(l:gavv/items/gochizo#tsurigummy_gochizo)Tsuri-Gummy Gochizo$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Kamen Rider Gavv",
+			"text": "Appears in:$(li)DX Rider Gochizo Special Set (2024, toyline)$(br2)Transforms with the $(l:gavv/devices/henshin_belt_gavv)Henshin Belt Gavv$(/l)$(br2)Status Effects:$(li)Fish!$(li)Speed$(li)Jump Boost II"
+		},
+		{
+			"type": "patchouli:entity",
+			"anchor": "tirol",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:henshin_belt_gavv\",components:{custom_data:{slot_tex1:\"kamenridercraft:tirolchocolate_gochizo_variety\"}},Count:1b},{id:\"kamenridercraft:gavv_legs\",Count:1b},{id:\"kamenridercraft:gavv_troso\",Count:1b},{id:\"kamenridercraft:gavv_head\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": "Tirol Form",
+			"text": "Accessed with the $(l:gavv/items/gochizo#tirolchocolate_gochizo_variety)Tirol Chocolate Gochizo (Variety Pack ver.)$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Kamen Rider Gavv",
+			"text": "Appears in:$(li)DX Rider Gochizo Special Set -Tirol Choco Collaboration Ver- (2025, toyline)$(br2)Transforms with the $(l:gavv/devices/henshin_belt_gavv)Henshin Belt Gavv$(/l)$(br2)Status Effects:$(li)Shot Boost$(li)Speed"
+		},
+		{
+			"type": "patchouli:entity",
+			"anchor": "boonboomger",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:henshin_belt_gavv\",components:{custom_data:{slot_tex1:\"kamenridercraft:boonboomger_gochizo\"}},Count:1b},{id:\"kamenridercraft:gavv_legs\",Count:1b},{id:\"kamenridercraft:gavv_troso\",Count:1b},{id:\"kamenridercraft:gavv_head\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": "Boonboomger Assist",
+			"text": "Accessed with the $(l:gavv/items/gochizo#boonboomger_gochizo)Boonboomger Gochizo$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Kamen Rider Gavv",
+			"text": "Appears in:$(li)Televi-Kun (November 2024, magazine)$(br2)Transforms with the $(l:gavv/devices/henshin_belt_gavv)Henshin Belt Gavv$(/l)$(br2)Status Effects:$(li)Speed V$(li)Jump Boost II"
+		}
+	]
+}

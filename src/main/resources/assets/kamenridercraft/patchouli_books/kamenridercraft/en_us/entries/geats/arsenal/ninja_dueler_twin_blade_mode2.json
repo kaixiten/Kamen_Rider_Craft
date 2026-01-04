@@ -1,0 +1,17 @@
+{
+	"name": "Ninja Dueler",
+	"icon": "kamenridercraft:ninja_dueler_twin_blade_mode2",
+	"category": "kamenridercraft:geats/arsenal",
+	"sortnum": 6,
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"text": "Appears in:$(li)Kamen Rider Geats (2022, TV show)$(br2)Used with a $(l:geats/riders/tycoon#ninja)Ninja$(/l) form"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "kamenridercraft:geats/ninja_dueler2",
+          "text": "Drops from:$(li)$(l:geats/mobs/gmrider)GM Rider$(/l)'s equipment$(li)$(l:geats/mobs/the_end_rider)The End Rider$(/l)'s equipment"
+		}
+	]
+}

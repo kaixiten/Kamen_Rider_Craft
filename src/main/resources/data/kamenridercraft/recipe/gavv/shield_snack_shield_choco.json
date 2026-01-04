@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "group": "gavv",
+  "ingredients": [
+{
+	
+	  "item": "kamenridercraft:choco_treasure_gochizo"
+	}, 
+	{
+	  "item": "kamenridercraft:shield_snack_shield"
+	}
+	],
+  "result": {
+	"id": "kamenridercraft:shield_snack_shield_choco"
+  }
+}

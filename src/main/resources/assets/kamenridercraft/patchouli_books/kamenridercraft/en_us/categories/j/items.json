@@ -1,0 +1,7 @@
+{
+	"parent": "kamenridercraft:j/main",
+    "name": "J Stone",
+    "description": "",
+    "icon": "kamenridercraft:j_stone",
+    "sortnum": 2
+}

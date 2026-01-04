@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "horobi",
+  "pattern": [
+    "XXX",
+    "XCX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "kamenridercraft:hiden_metal"
+    }, "C": {
+      "item": "kamenridercraft:sting_scorpion_progrisekey"
+    }
+  },
+  "result": {
+    "id": "kamenridercraft:forceriser_horobi"
+  }
+}

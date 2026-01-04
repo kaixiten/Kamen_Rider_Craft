@@ -1,0 +1,347 @@
+{
+  "lets_go_rider_kick": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:lets_go_rider_kick",
+        "stream": true
+      }
+    ]
+  },
+  "tatakae_kamen_rider_v3": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:tatakae_kamen_rider_v3",
+        "stream": true
+      }
+    ]
+  },
+  "amazon_rider_koko_ni_ari": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:amazon_rider_koko_ni_ari",
+        "stream": true
+      }
+    ]
+  },
+  "set_up_kamen_rider_x": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:set_up_kamen_rider_x",
+        "stream": true
+      }
+    ]
+  },
+  "kamen_rider_stronger_no_uta": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:kamen_rider_stronger_no_uta",
+        "stream": true
+      }
+    ]
+  },
+  "moero_kamen_rider": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:moero_kamen_rider",
+        "stream": true
+      }
+    ]
+  },
+  "kamen_rider_super_1": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:kamen_rider_super_1",
+        "stream": true
+      }
+    ]
+  },
+  "dragon_road": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:dragon_road",
+        "stream": true
+      }
+    ]
+  },
+  "kamen_rider_black": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:kamen_rider_black",
+        "stream": true
+      }
+    ]
+  },
+  "kamen_rider_black_rx": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:kamen_rider_black_rx",
+        "stream": true
+      }
+    ]
+  },
+  "kamen_rider_kuuga": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:kamen_rider_kuuga",
+        "stream": true
+      }
+    ]
+  },
+  "kamen_rider_agito": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:kamen_rider_agito",
+        "stream": true
+      }
+    ]
+  },
+  "alive_a_life": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:alive_a_life",
+        "stream": true
+      }
+    ]
+  },
+  "justifaiz": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:justifaiz",
+        "stream": true
+      }
+    ]
+  },
+  "round_zero_blade_brave": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:round_zero_blade_brave",
+        "stream": true
+      }
+    ]
+  },
+  "rebirth": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:rebirth",
+        "stream": true
+      }
+    ]
+  },
+  "kagayaki": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:kagayaki",
+        "stream": true
+      }
+    ]
+  },
+  "next_level": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:next_level",
+        "stream": true
+      }
+    ]
+  },
+  "climax_jump": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:climax_jump",
+        "stream": true
+      }
+    ]
+  },
+  "break_the_chain": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:break_the_chain",
+        "stream": true
+      }
+    ]
+  },
+  "journey_through_the_decade": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:journey_through_the_decade",
+        "stream": true
+      }
+    ]
+  },
+  "w_b_x_w_boiled_xtreme": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:w_b_x_w_boiled_xtreme",
+        "stream": true
+      }
+    ]
+  },
+  "anything_goes": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:anything_goes",
+        "stream": true
+      }
+    ]
+  },
+  "switch_on": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:switch_on",
+        "stream": true
+      }
+    ]
+  },
+  "life_is_showtime": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:life_is_showtime",
+        "stream": true
+      }
+    ]
+  },
+  "just_live_more": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:just_live_more",
+        "stream": true
+      }
+    ]
+  },
+  "surprise_drive": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:surprise_drive",
+        "stream": true
+      }
+    ]
+  },
+  "warera_omou_yue_ni_warera_ari": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:warera_omou_yue_ni_warera_ari",
+        "stream": true
+      }
+    ]
+  },
+  "excite": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:excite",
+        "stream": true
+      }
+    ]
+  },
+  "be_the_one": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:be_the_one",
+        "stream": true
+      }
+    ]
+  },
+  "over_quartzer": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:over_quartzer",
+        "stream": true
+      }
+    ]
+  },
+  "p_a_r_t_y_universe_festival": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:p_a_r_t_y_universe_festival",
+        "stream": true
+      }
+    ]
+  },
+  "realxeyez": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:realxeyez",
+        "stream": true
+      }
+    ]
+  },
+  "almighty": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:almighty",
+        "stream": true
+      }
+    ]
+  },
+  "livedevil": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:livedevil",
+        "stream": true
+      }
+    ]
+  },
+  "george_karizakis_rider_system": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:george_karizakis_rider_system",
+        "stream": true
+      }
+    ]
+  },
+  "trust_last": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:trust_last",
+        "stream": true
+      }
+    ]
+  },
+  "chemy_x_story": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:chemy_x_story",
+        "stream": true
+      }
+    ]
+  },
+  "chemy_x_story_flow": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:chemy_x_story_flow",
+        "stream": true
+      }
+    ]
+  },
+  "got_boost": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:got_boost",
+        "stream": true
+      }
+    ]
+  },  
+  "visions": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:visions",
+        "stream": true
+      }
+    ]
+  },
+  "masked_rider": {
+    "sounds": [
+      {
+        "name": "kamenridercraft:masked_rider",
+        "stream": true
+      }
+    ]
+  },
+  "excite2": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "kamenridercraft:excite2",
+        "stream": false
+      }
+    ]
+  }
+}

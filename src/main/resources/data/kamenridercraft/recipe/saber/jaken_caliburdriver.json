@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "calibur",
+  "pattern": [
+    "XXX",
+    "XCX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "kamenridercraft:blank_wonder_ride_book"
+    }, "C": {
+      "item": "kamenridercraft:jaaku_dragon_wonder_ride_book"
+    }
+  },
+  "result": {
+    "id": "kamenridercraft:jaken_caliburdriver"
+  }
+}

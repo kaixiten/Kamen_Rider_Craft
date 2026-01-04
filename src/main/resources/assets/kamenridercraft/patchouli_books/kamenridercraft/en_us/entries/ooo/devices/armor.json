@@ -1,0 +1,25 @@
+{
+	"name": "OOO Armor",
+	"icon": "kamenridercraft:ooohead",
+	"category": "kamenridercraft:ooo/devices",
+	"sortnum": 0,
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"text": "Used alongside an OOO Rider's transformation device to transform into that Rider$(br2)Drops from:$(li)$(l:ooo/mobs/ankh_complete_mob)Ankh (Complete)$(/l)'s equipment$(li)$(l:ooo/mobs/ankh_lost_mob)Ankh (Lost)$(/l)'s equipment$(li)$(l:ooo/mobs/uva_mob)Uva$(/l)'s equipment$(li)$(l:ooo/mobs/kazari_mob)Kazari$(/l)'s equipment$(li)$(l:ooo/mobs/mezool_mob)Mezool$(/l)'s equipment$(li)$(l:ooo/mobs/gamel_mob)Gamel$(/l)'s equipment$(li)$(l:ooo/mobs/muchiri_mob)Muchiri$(/l)'s equipment$(li)$(l:ooo/mobs/kyoryu_greeed_mob)Kyoryu Greeed$(/l)'s equipment"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "kamenridercraft:ooo/ooohead",
+          "text": "$(li)$(l:ooo/mobs/poseidon)Kamen Rider Poseidon$(/l)'s equipment$(li)$(l:ooo/mobs/core)Kamen Rider Core$(/l)'s equipment$(li)$(l:ooo/mobs/powered_up_core)Powered Up Kamen Rider Core$(/l)'s equipment$(li)$(l:ooo/mobs/ancient_ooo)Ancient OOO$(/l)'s equipment$(li)$(l:ooo/mobs/goda)Kamen Rider Goda$(/l)'s equipment"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "kamenridercraft:ooo/oootroso"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "kamenridercraft:ooo/ooolegs"
+		}
+	]
+}

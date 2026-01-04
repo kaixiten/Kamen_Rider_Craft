@@ -1,0 +1,49 @@
+{
+    "type": "minecraft:entity",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "kamenridercraft:kabuto_vistamp",
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "kamenridercraft:crimson_vail_vistamp",
+            "weight": 3
+          },
+          {
+            "type": "minecraft:item",
+            "name": "kamenridercraft:hercules_vistamp",
+            "weight": 5
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "kamenridercraft:proto_vistamp",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 2,
+                  "max": 4
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

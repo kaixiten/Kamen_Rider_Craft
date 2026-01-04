@@ -1,0 +1,25 @@
+{
+	"name": "Blank Ghost Eyecon",
+	"icon": "kamenridercraft:blank_ghost_eyecon",
+	"category": "kamenridercraft:ghost/items",
+	"sortnum": 0,
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"text": "Appears in:$(li)Kamen Rider Ghost (2015, TV show)$(br2)Used as the base item and repair material for most Ghost items$(br2)Drops personal Ghost Eyecons when used on any block other than the $(l:misc/blocks/machine_blocks#monolith)Monolith$(/l)$(br2)Drops on next page"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "kamenridercraft:ghost/blank_ghost_eyecon",
+			"text": "Drops from:$(li)$(l:ghost/mobs/gamma_commandos)Gamma Commandos$(/l)$(li)$(l:ghost/mobs/igor)Igor$(/l)$(li)$(l:ghost/mobs/necrom)Kamen Rider Necrom$(/l)$(li)$(l:ghost/mobs/dark_necrom)Kamen Rider Dark Necrom$(/l)$(li)$(l:ghost/mobs/dark_ghost)Kamen Rider Dark Ghost$(/l)"
+		},
+      {
+        "type": "patchouli:text",
+        "text": "Drops:$(li)$(l:ghost/items/ghost_eyecons#ore_ghost_eyecon)Ore Ghost Eyecon$(/l) (42.1%)$(li)$(l:ghost/items/ghost_eyecons#specter_ghost_eyecon)Specter Ghost Eyecon$(/l) (31.6%)$(li)$(l:ghost/items/ghost_eyecons#zero_specter_ghost_eyecon)Zero Specter Ghost Eyecon$(/l) (10.5%)$(li)$(l:ghost/items/ghost_eyecons#proto_ore_ghost_eyecon)Prototype Ore Ghost Eyecon$(/l) (5.3%)$(li)$(l:ghost/items/ghost_eyecons#kanon_specter_ghost_eyecon)Kanon Specter Ghost Eyecon$(/l) (5.3%)$(li)$(l:ghost/items/ghost_eyecons#new_ore_ghost_eyecon)New Ore Ghost Eyecon$(/l) (5.3%)$(br2)Drops with the 15 Hero Eyecons in your inventory:$(li)$(l:ghost/items/ghost_eyecons#boost_ghost_eyecon)Toucon Boost Ghost Eyecon$(/l) (71.4%)$(li)$(l:ghost/items/ghost_eyecons#deep_specter_ghost_eyecon)Deep Specter Ghost Eyecon$(/l) (21.4%)"
+      },
+      {
+        "type": "patchouli:text",
+        "text": "$(li)$(l:ghost/items/ghost_eyecons#tousan_ghost_eyecon)Tousan Ghost Eyecon$(/l) (7.1%)$(br2)Drops with the 15 Hero Eyecons, the $(li)$(l:ghost/items/ghost_eyecons#boost_ghost_eyecon)Toucon Boost Ghost Eyecon$(/l), and the $(li)$(l:ghost/devices/eyecon_driver_g)Eyecon Driver G$(/l) in your inventory:$(li)$(l:ghost/items/ghost_eyecons#mugen_ghost_eyecon)Mugen Ghost Eyecon$(/l) (71.4%)$(li)$(l:ghost/items/ghost_eyecons#sin_specter_ghost_eyecon)Sin Specter Ghost Eyecon$(/l) (14.3%)$(li)$(l:ghost/items/ghost_eyecons#tenkatoitsu_ghost_eyecon)Tenkatoitsu Ghost Eyecon$(/l) (7.1%)$(li)$(l:ghost/items/ghost_eyecons#shinsengumi_ghost_eyecon)Shinsengumi Ghost Eyecon$(/l) (7.1%)"
+      }
+	]
+}

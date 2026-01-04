@@ -1,0 +1,18 @@
+{
+  "name": "Oni Ore",
+  "icon": "kamenridercraft:stone_hibiki",
+  "category": "kamenridercraft:misc/blocks",
+  "sortnum": 13,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Mine this block to obtain $(l:hibiki/items/oni_ore)Akane Taka Disk Animals$(/l)$(br2)Requires an iron pickaxe or better$(br2)$(l)No longer spawns naturally as of the 2025 Halloween update"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "link_recipe": true,
+      "item": "kamenridercraft:stone_hibiki",
+      "title": " "
+    }
+  ]
+}

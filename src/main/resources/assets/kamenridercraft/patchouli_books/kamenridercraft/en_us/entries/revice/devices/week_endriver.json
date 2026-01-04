@@ -1,0 +1,31 @@
+{
+	"name": "Week Endriver",
+	"icon": "kamenridercraft:week_endriver",
+	"category": "kamenridercraft:revice/devices",
+	"sortnum": 11,
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"anchor": "week_endriver",
+			"text": "Appears in:$(li)Kamen Rider Revice (2021, TV show)$(br2)Used alongside the $(l:revice/devices/armor)Revice armor$(/l) to transform into $(l:revice/riders/aguilera)Kamen Rider Aguilera$(/l)$(br2)Can store up to 2 stacks of Vistamps"
+		},
+		{
+			"type": "patchouli:crafting",
+			"title": " ",
+			"recipe": "kamenridercraft:revice/week_endriver"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "dark_week_endriver",
+			"title": "Week Endriver (Dark Aguilera)",
+			"text": "Appears in:$(li)Kamen Rider Jeanne & Kamen Rider Aguilera with Girls Remix (2022, TTFC special)$(br2)Used alongside the $(l:revice/devices/armor)Revice armor$(/l) to transform into $(l:revice/riders/dark_aguilera)Kamen Rider Dark Aguilera$(/l)$(br2)Can store up to 2 stacks of Vistamps"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:dark_week_endriver",
+			"title": " ",
+			"text": "Item is currently unobtainable"
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"name": "GanGan G",
+	"icon": "kamenridercraft:gg_core",
+	"category": "kamenridercraft:skyrider/riders",
+	"sortnum": 1,
+	"pages": [
+		{
+			"type": "patchouli:entity",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:gangan_g_belt\",Count:1b},{id:\"kamenridercraft:skyriderlegs\",Count:1b},{id:\"kamenridercraft:skyridertroso\",Count:1b},{id:\"kamenridercraft:skyriderhead\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": " ",
+			"text": ""
+		},
+		{
+			"type": "patchouli:text",
+			"title": "GanGan G",
+			"text": "Appears in:$(li)The New Kamen Rider (1979, TV show)$(br2)Transforms with the $(l:skyrider/devices/gangan_g_belt)GanGan G Belt$(/l)"
+		}
+	]
+}

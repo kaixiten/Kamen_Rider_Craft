@@ -1,0 +1,84 @@
+{
+	"name": "Gamma Eyecons",
+	"icon": "kamenridercraft:royalty_gamma_eyecon",
+	"category": "kamenridercraft:ghost/items",
+	"sortnum": 2,
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"anchor": "royalty_gamma_eyecon",
+			"text": "Appears in:$(li)Kamen Rider Ghost (2015, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:royalty_gamma_eyecon",
+			"text": "Drops from:$(li)$(l:ghost/mobs/igor)Igor$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "transform_gamma_eyecon",
+			"title": "Transform Gamma Eyecon",
+			"text": "Appears in:$(li)Kamen Rider Ghost (2015, TV show)$(br2)Used to access Gamma Superior's $(l:ghost/riders/gamma_superior#perfect)Perfect$(/l) form"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:transform_gamma_eyecon",
+			"title": " ",
+			"text": "Drops from:$(li)$(l:ghost/mobs/igor)Igor$(/l)"
+		},
+      {
+        "type": "patchouli:text",
+        "anchor": "transform_gamma_eyecon_camille",
+        "title": "Transform Gamma Eyecon (Camille)",
+        "text": "Appears in:$(li)Kamen Rider Specter × Blades (2022, TTFC special)$(br2)Used to access Gamma Superior's $(l:ghost/riders/gamma_superior#perfect_camille)Perfect (Camille)$(/l) form"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:transform_gamma_eyecon_camille",
+        "title": " ",
+        "text": "Item is currently unobtainable"
+      },
+		{
+			"type": "patchouli:text",
+			"anchor": "knife_gamma_eyecon",
+			"title": "Knife Gamma Eyecon",
+			"text": "Appears in:$(li)Kamen Rider Ghost (2015, TV show)$(br2)Used to access Gamma Superior's $(l:ghost/riders/gamma_superior#knife)Knife$(/l) form"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:knife_gamma_eyecon",
+			"title": " ",
+			"text": "Drops from:$(li)$(l:ghost/mobs/igor)Igor$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "yurusen_gamma_eyecon",
+			"title": "Yurusen Gamma Eyecon",
+			"text": "Appears in:$(li)Kamen Rider Ghost (2015, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:yurusen_gamma_eyecon",
+			"title": " ",
+			"text": "Obtained by opening $(l:misc/items/gashapon_capsules)Gashapon Capsules$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "sister_gamma_eyecon",
+			"title": "Sister Gamma Eyecon",
+			"text": "Appears in:$(li)Kamen Rider Ghost (2015, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:sister_gamma_eyecon",
+			"title": " ",
+			"text": "Obtained by opening $(l:misc/items/gashapon_capsules)Gashapon Capsules$(/l)"
+		}
+	]
+}

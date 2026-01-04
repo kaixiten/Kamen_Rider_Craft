@@ -1,0 +1,17 @@
+{
+	"name": "Para-DX Summon",
+	"icon": "kamenridercraft:ex_aid_logo",
+	"category": "kamenridercraft:ex_aid/mobs",
+	"sortnum": 8,
+	"pages": [
+		{
+			"type": "patchouli:entity",
+			"entity": "kamenridercraft:paradx_summon",
+			"text": "Appears in:$(li)Kamen Rider Ex-Aid (2016, TV show)$(br)Health: 20"
+		},
+		{
+			"type": "patchouli:text",
+			"text": "Summoned by using the $(l:ex_aid/items/rider_gashats#mighty_brothers_xx_gashat)Mighty Brothers XX$(/l) or $(l:ex_aid/items/rider_gashats#knock_out_fighter_2_gashat)Knock Out Fighter 2 Gashat$(/l)$(br2)Disappears when any other Gashat is used$(br2)Follows the player and aids in combat"
+		}
+	]
+}

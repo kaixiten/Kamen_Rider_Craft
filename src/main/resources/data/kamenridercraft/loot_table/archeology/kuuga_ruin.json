@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:archaeology",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "kamenridercraft:kuuga_pegasus",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "kamenridercraft:kuuga_titan",
+          "weight": 2
+        },
+    {
+      "type": "minecraft:item",
+      "name": "kamenridercraft:kuuga_dragon",
+      "weight": 2
+    },
+    {
+      "type": "minecraft:item",
+      "name": "kamenridercraft:kuuga_mighty",
+      "weight": 3
+    },
+        {
+          "type": "minecraft:item",
+          "name": "kamenridercraft:kuuga_growing",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "kamenridercraft:kamen_rider_kuuga_music_disc",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

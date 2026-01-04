@@ -1,0 +1,17 @@
+{
+	"name": "Beat Axe",
+	"icon": "kamenridercraft:beat_axe",
+	"category": "kamenridercraft:geats/arsenal",
+	"sortnum": 4,
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"text": "Appears in:$(li)Kamen Rider Geats (2022, TV show)$(br2)Used with a $(l:geats/riders/na-go#beat)Beat$(/l) form"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "kamenridercraft:geats/beat_axe",
+          "text": "Drops from:$(li)$(l:geats/mobs/gmrider)GM Rider$(/l)'s equipment$(li)$(l:geats/mobs/the_end_rider)The End Rider$(/l)'s equipment"
+		}
+	]
+}

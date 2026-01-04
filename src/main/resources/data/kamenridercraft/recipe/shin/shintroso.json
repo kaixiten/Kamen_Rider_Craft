@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "group": "kr_shin",
+  "ingredients": [
+{
+	
+	  "item": "kamenridercraft:ichigotroso"
+	}, 
+	{
+	  "item": "kamenridercraft:shin_stone"
+	} 
+	],
+  "result": {
+	"id": "kamenridercraft:shintroso"
+  }
+}

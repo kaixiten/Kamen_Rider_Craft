@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "group": "kr_v3",
+  "ingredients": [
+{
+	
+	  "item": "kamenridercraft:ichigotroso"
+	}, 
+	[
+		{
+			"item": "kamenridercraft:double_typhoon_core"
+		},
+		{
+			"item": "kamenridercraft:riderman_belt_core"
+		}
+	]
+	],
+  "result": {
+	"id": "kamenridercraft:v3troso"
+  }
+}

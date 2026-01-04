@@ -1,0 +1,17 @@
+{
+	"name": "Blank Ride Chemy Card",
+	"icon": "kamenridercraft:blank_ride_chemy_card",
+	"category": "kamenridercraft:gotchard/items",
+	"sortnum": 0,
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"text": "Appears in:$(li)Kamen Rider Gotchard (2023, TV show)$(br2)Used as the base item and repair material for most Gotchard items"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "kamenridercraft:gotchard/blank_ride_chemy_card",
+          "text": "Drops from:$(li)$(l:gotchard/mobs/malgam)Malgam$(/l)$(li)$(l:gotchard/mobs/dread)Kamen Rider Dread$(/l)"
+		}
+	]
+}

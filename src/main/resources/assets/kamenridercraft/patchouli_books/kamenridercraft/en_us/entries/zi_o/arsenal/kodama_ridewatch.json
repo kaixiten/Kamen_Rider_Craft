@@ -1,0 +1,16 @@
+{
+  "name": "Kodama Ridewatch",
+  "icon": "kamenridercraft:kodama_ridewatch",
+  "category": "kamenridercraft:zi_o/arsenal",
+  "sortnum": 15,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Appears in:$(li)Kamen Rider Zi-O (2018, TV show)$(br2)Used to summon the Kodama Suika Arms"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "kamenridercraft:zi_o/kodama_ridewatch"
+    }
+  ]
+}

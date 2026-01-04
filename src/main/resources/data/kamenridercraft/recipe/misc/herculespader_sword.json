@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "herculespader",
+  "pattern": [
+	"XDX",
+	"XSX",
+	"XXX"
+  ],
+  "key": {
+	"X": {
+	  "item": "kamenridercraft:rider_circuit"
+	},
+	"D": {
+	  "item": "kamenridercraft:herculespader"
+	},
+	"S": {
+	  "item": "kamenridercraft:base_sword"
+	}
+  },
+  "result": {
+	"id": "kamenridercraft:herculespader_sword"
+  }
+}

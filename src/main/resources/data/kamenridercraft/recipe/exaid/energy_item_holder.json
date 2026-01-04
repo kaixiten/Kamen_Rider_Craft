@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+  "category": "equipment",
+	"group": "gashat",
+	"pattern": [
+		"EE",
+		"EE"
+	],
+	"key": { "E": {
+			"tag": "kamenridercraft:gear/energy_items"
+		}
+	},
+	"result": {
+		"id": "kamenridercraft:energy_item_holder"
+	}
+}

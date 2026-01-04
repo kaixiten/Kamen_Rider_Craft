@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "amaki",
+  "pattern": [
+	"XXX",
+	"XCX",
+	"XXX"
+  ],
+  "key": {
+	"X": {
+	  "item": "kamenridercraft:oni_ore"
+	}, "C": {
+	  "item": "kamenridercraft:henshin_onibue_amaki"
+	}
+  },
+  "result": {
+	"id": "kamenridercraft:amakidriver"
+  }
+}

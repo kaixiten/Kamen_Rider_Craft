@@ -1,0 +1,36 @@
+{
+	"name": "Kamen Rider Beroba",
+	"icon": "kamenridercraft:raise_riser_belt_beroba",
+	"category": "kamenridercraft:geats/riders",
+	"sortnum": 32,
+	"pages": [
+		{
+			"type": "patchouli:entity",
+			"anchor": "beroba",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:raise_riser_belt_beroba\",components:{custom_data:{slot_tex1:\"kamenridercraft:beroba_raise_riser_card\"}},Count:1b},{id:\"kamenridercraft:geatslegs\",Count:1b},{id:\"kamenridercraft:geatstroso\",Count:1b},{id:\"kamenridercraft:geatshead\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": " ",
+			"text": "Accessed with the $(l:geats/items/raise_riser_cards#beroba_raise_riser_card)Raise Riser Card (Beroba)$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Kamen Rider Beroba",
+			"text": "Appears in:$(li)Kamen Rider Geats (2022, TV show)$(br2)Transforms with the $(l:geats/devices/raise_riser_belt#raise_riser_belt_beroba)Raise Riser Belt$(/l)$(br2)Status Effects:$(li)Giant III$(li)Slowness$(li)Night Vision$(li)Haste$(li)Strength IV"
+		},
+		{
+			"type": "patchouli:entity",
+			"anchor": "premium",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:raise_riser_belt_beroba\",components:{custom_data:{slot_tex1:\"kamenridercraft:beroba_black_raise_riser_card\"}},Count:1b},{id:\"kamenridercraft:geatslegs\",Count:1b},{id:\"kamenridercraft:geatstroso\",Count:1b},{id:\"kamenridercraft:geatshead\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": " ",
+			"text": "Accessed with the $(l:geats/items/raise_riser_cards#beroba_black_raise_riser_card)Black Raise Riser Card (Beroba)$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Premium Beroba",
+			"text": "Appears in:$(li)Kamen Rider Geats (2022, TV show)$(br2)Transforms with the $(l:geats/devices/raise_riser_belt#raise_riser_belt_beroba)Raise Riser Belt$(/l)$(br2)Status Effects:$(li)Speed II$(li)Resistance III$(li)Haste$(li)Strength IV"
+		}
+	]
+}

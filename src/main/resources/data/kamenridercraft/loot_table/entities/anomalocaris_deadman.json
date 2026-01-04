@@ -1,0 +1,71 @@
+{
+    "type": "minecraft:entity",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "kamenridercraft:anomalocaris_vistamp",
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "kamenridercraft:proto_planarian_vistamp",
+            "weight": 4
+          },
+          {
+            "type": "minecraft:item",
+            "name": "kamenridercraft:paranegro",
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "kamenridercraft:proto_vistamp",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 2,
+                  "max": 4
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "kamenridercraft:thunder_gale_vistamp"
+          }
+        ],
+        "conditions": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "attacking_player",
+            "predicate": {
+              "slots": {
+                "container.*": {
+                  "items": "kamenridercraft:rolling_vistamp"
+                }
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

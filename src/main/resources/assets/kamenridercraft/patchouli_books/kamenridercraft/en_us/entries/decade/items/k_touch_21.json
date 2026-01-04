@@ -1,0 +1,16 @@
+{
+	"name": "Final Kamen Terminal K-Touch 21",
+	"icon": "kamenridercraft:k_touch_21",
+	"category": "kamenridercraft:decade/items",
+	"sortnum": 6,
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"text": "Appears in:$(li)Rider Time: Kamen Rider Zi-O VS Decade -7 of Zi-O!- (2021, web series)$(br2)Used to access Decade's $(l:decade/riders/decade#complete_21)Complete Form 21$(/l)"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "kamenridercraft:decade/k_touch_21"
+		}
+	]
+}

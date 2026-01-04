@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "juuga",
+  "pattern": [
+	"XXX",
+	"XCX",
+	"XXX"
+  ],
+  "key": {
+	"X": {
+	  "item": "kamenridercraft:proto_vistamp"
+	}, "C": {
+	  "item": "kamenridercraft:juuga_vistamp"
+	}
+  },
+  "result": {
+	"id": "kamenridercraft:juuga_driver"
+  }
+}

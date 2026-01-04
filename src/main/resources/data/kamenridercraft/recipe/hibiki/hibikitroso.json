@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "kr_hibiki",
+  "pattern": [
+	"X X",
+	"XXX",
+	"XXX"
+  ],
+  "key": {
+	"X": {
+	  "item": "kamenridercraft:oni_ore"
+	}
+  },
+  "result": {
+	"id": "kamenridercraft:hibikitroso"
+  }
+}

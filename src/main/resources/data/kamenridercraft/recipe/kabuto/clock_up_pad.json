@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+  "category": "equipment",
+	"group": "kr_kabuto",
+	"pattern": [
+	  "XXX",
+	  "XBX",
+	  "XXX"
+	],
+	"key": {
+	  "X": {
+		"item": "kamenridercraft:mini_zecter"
+	  },
+	  "B": {
+		"item": "minecraft:iron_block"
+	  }
+	},
+	"result": {
+	  "id": "kamenridercraft:clock_up_pad"
+	}
+  }

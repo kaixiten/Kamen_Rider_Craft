@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "group": "kr_x",
+  "ingredients": [
+{
+	
+	  "item": "kamenridercraft:ichigohead"
+	}, 
+	{
+	  "item": "kamenridercraft:ridol_core"
+	} 
+	],
+  "result": {
+	"id": "kamenridercraft:xhead"
+  }
+}

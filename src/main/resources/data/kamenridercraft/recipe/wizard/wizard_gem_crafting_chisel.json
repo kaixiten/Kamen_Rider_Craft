@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "wizard_gem_crafting",
+  "pattern": [
+    "I",
+    "C",
+    "X"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:stick"
+    }, "I": {
+      "tag": "c:ingots/iron"
+    }, "X": {
+      "item": "kamenridercraft:wizardgem"
+    }
+  },
+  "result": {
+    "id": "kamenridercraft:wizard_gem_crafting_chisel"
+  }
+}

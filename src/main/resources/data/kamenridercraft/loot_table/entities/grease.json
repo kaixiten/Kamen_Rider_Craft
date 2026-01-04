@@ -1,0 +1,54 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+
+	  {
+		  "rolls": 1,
+		  "entries": [
+			  {
+				  "type": "minecraft:item",
+				  "weight": 1,
+				  "name": "kamenridercraft:lost_castle_full_bottle"
+			  },
+			  {
+				  "type": "minecraft:item",
+				  "weight": 1,
+				  "name": "kamenridercraft:lost_kuwagata_full_bottle"
+			  },
+			  {
+				  "type": "minecraft:item",
+				  "weight": 1,
+				  "name": "kamenridercraft:lost_fukurou_full_bottle"
+			  },
+			  {
+				  "type": "minecraft:item",
+				  "weight": 6,
+				  "name": "kamenridercraft:sclash_jelly"
+			  },
+			  {
+				  "type": "minecraft:item",
+				  "weight": 2,
+				  "name": "kamenridercraft:pandora_panel_hokuto"
+			  }
+		  ]
+	  },
+	{
+	  "rolls": 1,
+	  "entries": [
+		{
+		  "type": "minecraft:item",
+		  "name": "kamenridercraft:sclash_jelly",
+		  "functions": [
+			{
+			  "function": "minecraft:set_count",
+			  "count": {
+				"min": 1,
+				"max": 2
+			  }
+			}
+		  ]
+		}
+	  ]
+	}
+  ]
+}

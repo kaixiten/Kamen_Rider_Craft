@@ -1,0 +1,17 @@
+{
+	"name": "Chemy Riser (Supana Kurogane Ver.)",
+	"icon": "kamenridercraft:chemy_riser_supana",
+	"category": "kamenridercraft:gotchard/arsenal",
+	"sortnum": 5,
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"text": "Appears in:$(li)Kamen Rider Gotchard (2023, TV show)$(br2)Used by Supana Kurogane$(br2)Use $(l:gotchard/items/blank_ride_chemy_card)Blank Ride Chemy Cards$(/l) and an $(l:gotchard/items/alchemist_rings)Alchemist Ring$(/l) inside to obtain Chemy Cards$(li)Blue: Vehicle$(li)Green: Job$(li)Red: Ancient$(li)Purple: Occult$(li)Orange: Cosmic"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "kamenridercraft:gotchard/chemy_riser_supana",
+			"text": "Use in the Nether to obtain Daybreak Chemy Cards$(br2)Use in the City dimension to obtain Legend Rider Chemy Cards (27% chance for $(l:gotchard/items/ride_chemy_cards#legend_ride_chemy_card)Legend$(/l), 2.7% chance for all others)"
+		}
+	]
+}

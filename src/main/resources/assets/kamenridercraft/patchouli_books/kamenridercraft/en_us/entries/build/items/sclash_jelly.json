@@ -1,0 +1,19 @@
+{
+	"name": "Empty Sclashjelly",
+	"icon": "kamenridercraft:sclash_jelly",
+	"category": "kamenridercraft:build/items",
+	"sortnum": 2,
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"text": "Appears in:$(li)Kamen Rider Build (2017, TV show)$(br2)Used as the base item for the Sclash Driver system"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:sclash_jelly",
+			"title": " ",
+			"text": "Obtained by using $(l:build/items/full_bottle)Empty Bottles$(/l) on the $(l:misc/blocks/machine_blocks#fullbottle_solidifier)Fullbottle Solidifier$(/l)$(br2)Drops from:$(li)$(l:build/mobs/grease)Kamen Rider Grease$(/l)"
+		}
+	]
+}

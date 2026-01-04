@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+	"group": "dark_kabuto",
+	"ingredients": [
+	  {
+		"item": "kamenridercraft:zect_kunai"
+	  }
+	],
+	"result": {
+	  "id": "kamenridercraft:zect_kunai_kunai"
+	}
+  }
+  

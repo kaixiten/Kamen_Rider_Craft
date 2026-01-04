@@ -1,0 +1,17 @@
+{
+	"name": "Drive System Car",
+	"icon": "kamenridercraft:drive_system_car",
+	"category": "kamenridercraft:drive/items",
+	"sortnum": 1,
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"text": "Appears in:$(li)Kamen Rider Drive (2014, TV show)$(br2)Used on the $(l:misc/blocks/machine_blocks#shift_chassis_assembler)Shift Chassis Assembler$(/l) to obtain Shift Cars"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "kamenridercraft:drive/drive_system_car",
+			"text": "Drops from:$(li)$(l:drive/mobs/gord_drive)Gold Drive$(/l)"	
+		}
+	]
+}

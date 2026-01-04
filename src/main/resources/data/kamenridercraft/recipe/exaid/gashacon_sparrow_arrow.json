@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "group": "lazer",
+  "ingredients": [
+{
+	
+	  "item": "kamenridercraft:gashacon_sparrow_sickle_a"
+	}, 
+	{
+	  "item": "kamenridercraft:gashacon_sparrow_sickle_b"
+	} 
+	],
+  "result": {
+	"id": "kamenridercraft:gashacon_sparrow_arrow"
+  }
+}

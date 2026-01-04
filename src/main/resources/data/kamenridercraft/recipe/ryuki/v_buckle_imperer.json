@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "imperer",
+  "pattern": [
+	"XXX",
+	"XMX",
+	"XXX"
+  ],
+  "key": {
+	"X": {
+	  "item": "kamenridercraft:advent_card"
+	},
+	"M": {
+	  "item": "kamenridercraft:advent_deck_imperer"
+	}
+  },
+  "result": {
+	"id": "kamenridercraft:v_buckle_imperer"
+  }	
+}

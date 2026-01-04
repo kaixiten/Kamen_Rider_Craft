@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "magia",
+  "pattern": [
+    "XXX",
+    "XCX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "kamenridercraft:hiden_metal"
+    }, "C": {
+      "item": "kamenridercraft:vicarya_zetsumerisekey"
+    }
+  },
+  "result": {
+    "id": "kamenridercraft:zetsumeriser_vicarya"
+  }
+}

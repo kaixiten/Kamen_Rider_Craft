@@ -1,0 +1,16 @@
+{
+	"name": "Sonic Arrow",
+	"icon": "kamenridercraft:sonic_arrow",
+	"category": "kamenridercraft:gaim/arsenal",
+	"sortnum": 29,
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"text": "Appears in:$(li)Kamen Rider Gaim (2013, TV show)$(br2)Used by the Genesis Armored Riders$(br2)Drops from:$(li)$(l:gaim/mobs/zangetsu_shin)Kamen Rider Zangetsu Shin$(/l)'s equipment$(li)$(l:gaim/mobs/marika)Kamen Rider Marika$(/l)'s equipment$(li)$(l:gaim/mobs/duke)Kamen Rider Duke$(/l)'s equipment$(li)$(l:gaim/mobs/sigurd)Kamen Rider Sigurd$(/l)'s equipment"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "kamenridercraft:gaim/sonic_arrow"
+		}
+	]
+}

@@ -1,0 +1,2072 @@
+{
+	"name": "Gochizo",
+	"icon": "kamenridercraft:poppingummy_gochizo",
+	"category": "kamenridercraft:gavv/items",
+	"sortnum": 4,
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"anchor": "poppingummy_gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Used to craft Gavv's $(l:gavv/devices/henshin_belt_gavv)Henshin Belt Gavv$(/l)$(br2)Used to access Gavv's $(l:gavv/riders/gavv#poppingummy)Poppingummy Form$(/l)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:poppingummy_gochizo",
+			"text": "Obtained by eating $(l:misc/items/foods#gummi_candy)Gummi Candy$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory$(br2)Drops from:$(li)$(l:gavv/mobs/agent)Agents$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "punchingummy_gochizo",
+			"title": "Punchingummy Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Used to access Gavv's $(l:gavv/riders/gavv#punchingummy)Punchingummy Assist$(/l) and $(l:gavv/riders/gavv#kickingummy_punchingummy)Kickingummy&Punchingummy Assist$(/l)$(br2)Used to equip Valen Frappe Custom with the $(l:gavv/riders/valen#frappe_punchingummy)Shuwa Punching$(/l)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:punchingummy_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#gummi_candy)Gummi Candy$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "kickingummy_gochizo",
+			"title": "Kickingummy Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Used to access Gavv's $(l:gavv/riders/gavv#kickingummy)Kickingummy Assist$(/l) and $(l:gavv/riders/gavv#kickingummy_punchingummy)Kickingummy&Punchingummy Assist$(/l)$(br2)Used to equip Valen Frappe Custom with the $(l:gavv/riders/valen#frappe_kickingummy)Range Kicking$(/l)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:kickingummy_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#gummi_candy)Gummi Candy$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "tsurigummy_gochizo",
+			"title": "Tsuri-Gummy Gochizo",
+			"text": "Appears in:$(li)DX Rider Gochizo Special Set (2024, toyline)$(br2)Used to access Gavv's $(l:gavv/riders/gavv#fishingummy)Fishingummy Assist$(/l)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:tsurigummy_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#gummi_candy)Gummi Candy$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "zakuzakuchips_gochizo",
+			"title": "Zakuzakuchips Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Used to access Gavv's $(l:gavv/riders/gavv#zakuzakuchips)Zakuzakuchips Form$(/l)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:zakuzakuchips_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#potato_snacks)Potato Snacks$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "hirihirichips_gochizo",
+			"title": "Hirihirichips Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Used to access Gavv's $(l:gavv/riders/gavv#hirihirichips)Hirihirichips Assist$(/l)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:hirihirichips_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#potato_snacks)Potato Snacks$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "fuwamallow_gochizo",
+			"title": "Fuwamallow Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Used to access Gavv's $(l:gavv/riders/gavv#fuwamallow)Fuwamallow Form$(/l)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:fuwamallow_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#marshmallow)Marshmallows$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "marumallow_gochizo",
+			"title": "Marumallow Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Used to access Gavv's $(l:gavv/riders/gavv#marumallow)Marumallow Assist$(/l)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:marumallow_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#marshmallow)Marshmallows$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "chocodan_gochizo",
+			"title": "Chocodan Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Used to craft Valen's $(l:gavv/arsenal/valenbuster)Valenbuster$(/l)$(br2)Used to access Gavv's $(l:gavv/riders/gavv#chocodan)Chocodan Form$(/l)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:chocodan_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#chocolate_bar)Chocolate Bars$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "chocodon_gochizo",
+			"title": "Chocodon Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Used to craft Valen's $(l:gavv/arsenal/valenbuster)Valenbuster$(/l)$(br2)Used to access Valen's $(l:gavv/riders/valen#chocodon)Chocodon Form$(/l)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:chocodon_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#chocolate_bar)Chocolate Bars$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "chocold_gochizo",
+			"title": "Chocold Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Used to craft Valen's $(l:gavv/arsenal/valenbuster)Valenbuster$(/l)$(br2)Used to access Valen's $(l:gavv/riders/valen#chocold)Chocold Form$(/l)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:chocold_gochizo",
+			"title": " ",
+			"text": "Drops from:$(li)$(l:gavv/mobs/bitter_gavv)Kamen Rider Bitter Gavv$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "gurucan_gochizo",
+			"title": "Gurucan Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Used to access Gavv's $(l:gavv/riders/gavv#gurucan)Gurucan Form$(/l)$(br2)Used to equip Valen Frappe Custom with the $(l:gavv/riders/valen#frappe_gurucan)Gurucan Legs$(/l)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:gurucan_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#lollipop)Lollipops$(/l) or $(l:misc/items/foods#candy)Nourishing Candy S$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "vrocan_gochizo",
+			"title": "Vrocan Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:vrocan_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#lollipop)Lollipops$(/l) or $(l:misc/items/foods#candy)Nourishing Candy S$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "bakucan_gochizo",
+			"title": "Bakucan Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Used to access Gavv's $(l:gavv/riders/gavv#bakucan)Bakucan Assist$(/l)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:bakucan_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#lollipop)Lollipops$(/l) or $(l:misc/items/foods#candy)Nourishing Candy S$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "partea_gochizo",
+			"title": "Partea Scone Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv: Funny Sweats Tea Party (2025, stage show)$(br2)Used to access Gavv's $(l:gavv/riders/gavv#partea_scone)Partea Scone Form$(/l)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:partea_gochizo",
+			"title": " ",
+			"text": "Found inside a Gavv $(l:misc/stageshow)Stageshow$(/l)"
+		},
+      {
+        "type": "patchouli:text",
+        "anchor": "kinchoco_gochizo",
+        "title": "Kin Choco Gochizo",
+        "text": "Appears in:$(li)Kamen Rider Gavv: Final Stage (2025, stage show)$(br2)Used to access Gavv's $(l:gavv/riders/gavv#kin_choco)Kin Choco Form$(/l)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:kinchoco_gochizo",
+        "title": " ",
+        "text": "Found inside a Gavv $(l:misc/stageshow)Stageshow$(/l)"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "uirou_gochizo",
+        "title": "Uirou Gochizo",
+        "text": "Appears in:$(li)Kamen Rider Gavv: Final Stage (2025, stage show)$(br2)Used to access Gavv's $(l:gavv/riders/gavv#uirou)Uirou Form$(/l)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:uirou_gochizo",
+        "title": " ",
+        "text": "Found inside a Gavv $(l:misc/stageshow)Stageshow$(/l)"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "mensen_gochizo",
+        "title": "Men Sen Gochizo",
+        "text": "Appears in:$(li)Kamen Rider Gavv: Final Stage (2025, stage show)$(br2)Used to access Gavv's $(l:gavv/riders/gavv#men_sen)Men Sen Form$(/l)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:mensen_gochizo",
+        "title": " ",
+        "text": "Found inside a Gavv $(l:misc/stageshow)Stageshow$(/l)"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "takosen_gochizo",
+        "title": "Tako Sen Gochizo",
+        "text": "Appears in:$(li)Kamen Rider Gavv: Final Stage (2025, stage show)$(br2)Used to access Gavv's $(l:gavv/riders/gavv#tako_sen)Tako Sen Form$(/l)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:takosen_gochizo",
+        "title": " ",
+        "text": "Found inside a Gavv $(l:misc/stageshow)Stageshow$(/l)"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "ningyo_gochizo",
+        "title": "Ningyo Gochizo",
+        "text": "Appears in:$(li)Kamen Rider Gavv: Final Stage (2025, stage show)$(br2)Used to access Gavv's $(l:gavv/riders/gavv#ningyo)Ningyo Form$(/l)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:ningyo_gochizo",
+        "title": " ",
+        "text": "Found inside a Gavv $(l:misc/stageshow)Stageshow$(/l)"
+      },
+		{
+			"type": "patchouli:text",
+			"anchor": "bushel_gochizo",
+			"title": "Bushel Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Used to access Gavv's $(l:gavv/riders/gavv#bushel)Bushel Form$(/l)$(br2)Used to access Valen's $(l:gavv/riders/valen#bushel)Bushel Form$(/l)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:bushel_gochizo",
+			"title": " ",
+			"text": "Obtained by eating cake with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "kungfu_ramen_gochizo",
+			"title": "Kungfu Ramen Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv: The Snacks Gourmet Woo!-mai Wakamen!! (2025, Hyper Battle Video)$(br2)Used to access Gavv's $(l:gavv/riders/gavv#shield_snack)Shield Snack Form$(/l)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:kungfu_ramen_gochizo",
+			"title": " ",
+          "text": "Obtained by eating $(l:misc/items/foods#potato_snacks)Potato Snacks$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "choco_treasure_gochizo",
+			"title": "Choco Treasure Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv: The Snacks Gourmet Woo!-mai Wakamen!! (2025, Hyper Battle Video)$(br2)Used to access Gavv's $(l:gavv/riders/gavv#choco_t)Choco T Assist$(/l)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:choco_treasure_gochizo",
+			"title": " ",
+          "text": "Obtained by eating $(l:misc/items/foods#chocolate_bar)Chocolate Bars$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+      {
+        "type": "patchouli:text",
+        "anchor": "umaibo_gochizo",
+        "title": "Umaibo Gochizo",
+        "text": "Appears in:$(li)DX Rider Gochizo Special Set -Umaibo Collaboration Ver- (2025, toyline)$(br2)Used to access Gavv's $(l:gavv/riders/gavv#shot_snack)Shot Snack Form$(/l)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:umaibo_gochizo",
+        "title": " ",
+        "text": "Obtained by eating $(l:misc/items/foods#corn_snack)Corn Snacks$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+		{
+			"type": "patchouli:text",
+			"anchor": "caking_gochizo",
+			"title": "Caking Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Used to access Gavv's $(l:gavv/riders/gavv#caking)Caking Form$(/l)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:caking_gochizo",
+			"title": " ",
+			"text": "Obtained by eating cake with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "blizzardsorbei_gochizo",
+			"title": "Blizzardsorbei Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Used to access Gavv's $(l:gavv/riders/gavv#blizzardsorbet)Blizzardsorbet Form$(/l)$(br2)Can alter the sizes of 2 $(l:gavv/mobs/whipped_soldier)Whipped Soldiers$(/l) when right-clicked while sneaking"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:blizzardsorbei_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#icepop)Ice Pops$(/l) with a $(l:gavv/items/prototype_cup_gochizo)Prototype Cup Gochizo$(/l) in your inventory"
+		},
+      {
+        "type": "patchouli:text",
+        "anchor": "amazingummy_gochizo",
+        "title": "Amazingummy Gochizo",
+        "text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Used to access Gavv's $(l:gavv/riders/gavv#amazingummy)Amazingummy Form$(/l)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:amazingummy_gochizo",
+        "title": " ",
+        "text": "Drops from:$(li)$(l:gavv/mobs/bocca_jaldak)Bocca Jaldak$(/l) (with a full $(l:gavv/items/gochipod)Gochipod$(/l) in your inventory)"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "hexenheim_gochizo",
+        "title": "Hexenheim Gochizo",
+        "text": "Appears in:$(li)Kamen Rider Gavv: Invaders of the House of Snacks (2025, movie)$(br2)Used to access Gavv's $(l:gavv/riders/gavv#hexenheim)Hexenheim Form$(/l)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:hexenheim_gochizo",
+        "title": " ",
+        "text": "Item is currently unobtainable"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "uehouse_gochizo",
+        "title": "Uehouse Gochizo",
+        "text": "Appears in:$(li)Kamen Rider Gavv: Invaders of the House of Snacks (2025, movie)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:uehouse_gochizo",
+        "title": " ",
+        "text": "Item is currently unobtainable"
+      },
+		{
+			"type": "patchouli:text",
+			"anchor": "doumaru_gochizo",
+			"title": "Doumaru Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Used to access Valen's $(l:gavv/riders/valen#doumaru)Doumaru Form$(/l)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:doumaru_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#donut)Donuts$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "frappeis_gochizo",
+			"title": "Frappeis Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Used to access Valen's $(l:gavv/riders/valen#frappe)Frappe Custom$(/l)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:frappeis_gochizo",
+			"title": " ",
+			"text": "Obtained by drinking $(l:misc/items/foods#coffee)Coffee$(/l) or eating $(l:misc/items/foods#chocolate_bar)Chocolate Bars$(/l) with a $(l:gavv/items/prototype_cup_gochizo)Prototype Cup Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "chocorappa_gochizo",
+			"title": "Chocorappa Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv: Guilty Parfait (2025, V-Cinema film)$(br2)Used to access Valen's $(l:gavv/riders/valen#parfait)Parfait Mode$(/l)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:chocorappa_gochizo",
+			"title": " ",
+			"text": "Item is currently unobtainable"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "doppudding_gochizo",
+			"title": "Doppudding Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Used to access Vram's $(l:gavv/riders/vram#doppudding)Pudding Custom$(/l)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:doppudding_gochizo",
+			"title": " ",
+			"text": "Traded by a novice $(l:misc/villagers#agent_villager)Stomach Inc. Agent$(/l)"
+		},
+      {
+        "type": "patchouli:text",
+        "anchor": "purujelly_gochizo",
+        "title": "Purujelly Gochizo",
+        "text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Used to access Vram's $(l:gavv/riders/vram#purujelly)Jelly Custom$(/l)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:purujelly_gochizo",
+        "title": " ",
+        "text": "Traded by a novice $(l:misc/villagers#agent_villager)Stomach Inc. Agent$(/l)"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "purujelly_noir_gochizo",
+        "title": "Purujelly Noir Gochizo",
+        "text": "Appears in:$(li)Kamen Rider Vram: Route Stomach (2025, TTFC special)$(br2)Used to access Vram's $(l:gavv/riders/vram#purujelly_noir)Jelly Custom Noir$(/l)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:purujelly_noir_gochizo",
+        "title": " ",
+        "text": "Item is currently unobtainable"
+      },
+		{
+			"type": "patchouli:text",
+			"anchor": "puddinte_gochizo",
+			"title": "Puddinte Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Used to access Vram's $(l:gavv/riders/vram#a_la_mode)A la Mode Mode$(/l)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:puddinte_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#pudding)Pudding$(/l) with a $(l:gavv/items/prototype_cup_gochizo)Prototype Cup Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "shouma_doppudding_gochizo",
+			"title": "Shouma's Doppudding Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:shouma_doppudding_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#pudding)Pudding$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "prujelly_gochizo",
+			"title": "Prujelly Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:prujelly_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#pudding)Pudding$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "sparkingummy_gochizo",
+			"title": "Sparkingummy Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Used to access Bitter Gavv's $(l:gavv/riders/bitter_gavv#sparkingummy)Sparkingummy Form$(/l)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:sparkingummy_gochizo",
+			"title": " ",
+			"text": "Drops from:$(li)$(l:gavv/mobs/bitter_gavv)Kamen Rider Bitter Gavv$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "breacookie_gochizo",
+			"title": "Breacookie Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Used to craft Bake's $(l:gavv/arsenal/bakemagnum)Bakemagnum$(/l)$(br2)Used to access Bitter Gavv's $(l:gavv/riders/bitter_gavv#breacookie)Breacookie Form$(/l)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:breacookie_gochizo",
+			"title": " ",
+			"text": "Drops from:$(li)$(l:gavv/mobs/bitter_gavv)Kamen Rider Bitter Gavv$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "bakibakistick_gochizo",
+			"title": "Bakibaki Stick Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Used to access Bitter Gavv's $(l:gavv/riders/bitter_gavv#bakibaki_stick)Bakibaki Stick Form$(/l)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:bakibakistick_gochizo",
+			"title": " ",
+			"text": "Drops from:$(li)$(l:gavv/mobs/bitter_gavv)Kamen Rider Bitter Gavv$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "marble_breacookie_gochizo",
+			"title": "Marble Breacookie Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)$(br2)Used to access Bitter Gavv's $(l:gavv/riders/bitter_gavv#marble_breacookie)Marble Breacookie Form$(/l)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:marble_breacookie_gochizo",
+			"title": " ",
+			"text": "Drops from:$(li)$(l:gavv/mobs/bitter_gavv)Kamen Rider Bitter Gavv$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "vrocanspicy_gochizo",
+			"title": "Vrocan Spicy Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:vrocanspicy_gochizo",
+			"title": " ",
+			"text": "Drops from:$(li)$(l:gavv/mobs/bitter_gavv)Kamen Rider Bitter Gavv$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "terror_gochizo",
+			"title": "Terror Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv: Invaders of the House of Snacks (2025, movie)$(br2)Used to craft Caries's $(l:gavv/devices/henshin_belt_caries_gavv)Henshin Belt Breed Gavv$(/l)$(br2)Used to access Caries's $(l:gavv/riders/caries#c1)C1$(/l) and $(l:gavv/riders/caries#c3)C3$(/l) forms"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:terror_gochizo",
+			"title": " ",
+			"text": "Item is currently unobtainable"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "cookiekie_gochizo",
+			"title": "Cookikkie Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:cookiekie_gochizo",
+			"title": " ",
+			"text": "Obtained by eating cookies with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "byunbei_gochizo",
+			"title": "Byunbei Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:byunbei_gochizo",
+			"title": " ",
+			"text": "Obtained by eating cookies with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "eleganmacaron_gochizo",
+			"title": "Eleganmacaron Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:eleganmacaron_gochizo",
+			"title": " ",
+			"text": "Obtained by eating cookies with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "caramelmel_gochizo",
+			"title": "Caramelmel Gochizo",
+			"text": "Appears in:$(li)DX Caramelmel Gochizo (2024, toyline)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:caramelmel_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#lollipop)Lollipops$(/l) or $(l:misc/items/foods#candy)Nourishing Candy S$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "popburn_gochizo",
+			"title": "Popburn Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:popburn_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#corn_snack)Corn Snacks$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "oshiruko_gochizo",
+			"title": "Oshiruko Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:oshiruko_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#marshmallow)Marshmallows$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "bubbleramune_gochizo",
+			"title": "Bubble Ramune Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:bubbleramune_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#lollipop)Lollipops$(/l) or $(l:misc/items/foods#candy)Nourishing Candy S$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "bubbleramune_gochizo_peach",
+			"title": "Bubble Ramune Gochizo (Peach ver.)",
+			"text": "Appears in:$(li)DX Rider Gochizo Set 03 (2024, toyline)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:bubbleramune_gochizo_peach",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#lollipop)Lollipops$(/l) or $(l:misc/items/foods#candy)Nourishing Candy S$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "wafusaku_gochizo",
+			"title": "Wafusaku Gochizo",
+			"text": "Appears in:$(li)DX Rider Gochizo Set 04 (2025, toyline)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:wafusaku_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#pancake)Pancake Stacks$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "mofupachi_gochizo",
+			"title": "Mofupachi Gochizo",
+			"text": "Appears in:$(li)DX Rider Gochizo Set 04 (2025, toyline)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:mofupachi_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#lollipop)Lollipops$(/l) or $(l:misc/items/foods#candy)Nourishing Candy S$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "hagigoro_gochizo",
+			"title": "Hagigoro Gochizo",
+			"text": "Appears in:$(li)DX Rider Gochizo Set 04 (2025, toyline)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:hagigoro_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#dango)Dango$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "hotcaken_gochizo",
+			"title": "Hotcaken Gochizo",
+			"text": "Appears in:$(li)DX Rider Gochizo Set 05 (2025, toyline)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:hotcaken_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#pancake)Pancake Stacks$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "crepuna_gochizo",
+			"title": "Crepuna Gochizo",
+			"text": "Appears in:$(li)DX Rider Gochizo Set 05 (2025, toyline)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:crepuna_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#pancake)Pancake Stacks$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "amondcokikkie_gochizo",
+			"title": "Amondcokikie Gochizo",
+			"text": "Appears in:$(li)DX Rider Gochizo Set 05 (2025, toyline)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:amondcokikkie_gochizo",
+			"title": " ",
+			"text": "Obtained by eating cookies with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "doranosuke_gochizo",
+			"title": "Doranosuke Gochizo",
+			"text": "Appears in:$(li)DX Rider Gochizo Set 06 (2025, toyline)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:doranosuke_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#pancake)Pancake Stacks$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "mitaramotti_gochizo",
+			"title": "Mitaramotti Gochizo",
+			"text": "Appears in:$(li)DX Rider Gochizo Set 06 (2025, toyline)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:mitaramotti_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#dango)Dango$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "mogimaru_gochizo",
+			"title": "Mogimaru Gochizo",
+			"text": "Appears in:$(li)DX Rider Gochizo Set 06 (2025, toyline)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:mogimaru_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#dango)Dango$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+      {
+        "type": "patchouli:text",
+        "anchor": "sporki_gochizo",
+        "title": "Sporki Gochizo",
+        "text": "Appears in:$(li)Gochizo Party (2025, web series)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:sporki_gochizo",
+        "title": " ",
+        "text": "Obtained by eating cake with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "gumgumgum_gochizo",
+        "title": "Gum Gum Gum Gochizo",
+        "text": "Appears in:$(li)Gochizo Party (2025, web series)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:gumgumgum_gochizo",
+        "title": " ",
+        "text": "Obtained by opening $(l:misc/items/gashapon_capsules#gashapon_capsule)Gashapon Capsules$(/l)"
+      },
+		{
+			"type": "patchouli:text",
+			"anchor": "morinagaramune_gochizo",
+			"title": "Morinaga Ramune Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv Gavvgavv Campaign (2024, promo contest)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:morinagaramune_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#lollipop)Lollipops$(/l) or $(l:misc/items/foods#candy)Nourishing Candy S$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "angelpie_gochizo",
+			"title": "Angelpie Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv Gavvgavv Campaign (2024, promo contest)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:angelpie_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#marshmallow)Marshmallows$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "artcandy_gochizo",
+			"title": "Papa Bubble Art Candy Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv Gavvgavv Campaign (2024, promo contest)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:artcandy_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#lollipop)Lollipops$(/l) or $(l:misc/items/foods#candy)Nourishing Candy S$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "bonchiage_gochizo",
+			"title": "Bonchi-Age Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv Gavvgavv Campaign (2024, promo contest)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:bonchiage_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#potato_snacks)Potato Snacks$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "chocoball_gochizo",
+			"title": "Chocoball Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv Gavvgavv Campaign (2024, promo contest)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:chocoball_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#chocolate_bar)Chocolate Bars$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "chocopie_gochizo",
+			"title": "Chocopie Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv Gavvgavv Campaign (2024, promo contest)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:chocopie_gochizo",
+			"title": " ",
+			"text": "Obtained by eating cookies with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "crunky_gochizo",
+			"title": "Crunky Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv Gavvgavv Campaign (2024, promo contest)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:crunky_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#chocolate_bar)Chocolate Bars$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "custardcake_gochizo",
+			"title": "Custard Cake Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv Gavvgavv Campaign (2024, promo contest)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:custardcake_gochizo",
+			"title": " ",
+			"text": "Obtained by eating cake with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "ghana_gochizo",
+			"title": "Ghana Chocolate Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv Gavvgavv Campaign (2024, promo contest)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:ghana_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#chocolate_bar)Chocolate Bars$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "happyturn_gochizo",
+			"title": "Happyturn Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv Gavvgavv Campaign (2024, promo contest)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:happyturn_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#potato_snacks)Potato Snacks$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "hichew_gochizo",
+			"title": "Hi-Chew Gummy Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv Gavvgavv Campaign (2024, promo contest)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:hichew_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#gummi_candy)Gummi Candy$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "koalamarch_gochizo",
+			"title": "Koala March Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv Gavvgavv Campaign (2024, promo contest)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:koalamarch_gochizo",
+			"title": " ",
+			"text": "Obtained by eating cookies with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "meitoalphabet_gochizo",
+			"title": "Meito Alphabet Chocolate Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv Gavvgavv Campaign (2024, promo contest)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:meitoalphabet_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#chocolate_bar)Chocolate Bars$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "moonlightcookie_gochizo",
+			"title": "Moonlight Cookie Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv Gavvgavv Campaign (2024, promo contest)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:moonlightcookie_gochizo",
+			"title": " ",
+			"text": "Obtained by eating cookies with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "ottotto_gochizo",
+			"title": "Ottotto Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv Gavvgavv Campaign (2024, promo contest)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:ottotto_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#potato_snacks)Potato Snacks$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "pienomi_gochizo",
+			"title": "Pie No Mi Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv Gavvgavv Campaign (2024, promo contest)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:pienomi_gochizo",
+			"title": " ",
+			"text": "Obtained by eating cookies with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "peanutage_gochizo",
+			"title": "Peanut-Age Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv Gavvgavv Campaign (2024, promo contest)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:peanutage_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#potato_snacks)Potato Snacks$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "pukupukutai_gochizo",
+			"title": "PukuPuku Tai Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv Gavvgavv Campaign (2024, promo contest)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:pukupukutai_gochizo",
+			"title": " ",
+			"text": "Obtained by eating cookies with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "tarakomentaiko_gochizo",
+			"title": "Tarako Mentaiko Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv Gavvgavv Campaign (2024, promo contest)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:tarakomentaiko_gochizo",
+			"title": " ",
+			"text": "Obtained by eating raw cod with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "toppo_gochizo",
+			"title": "Toppo Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv Gavvgavv Campaign (2024, promo contest)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:toppo_gochizo",
+			"title": " ",
+			"text": "Obtained by eating cookies with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "tirolchocolate_gochizo",
+			"title": "Tirol Chocolate Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gavv Gavvgavv Campaign (2024, promo contest)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:tirolchocolate_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#chocolate_bar)Chocolate Bars$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "tirolchocolate_gochizo_variety",
+			"title": "Tirol Chocolate Gochizo (Variety Pack ver.)",
+			"text": "Appears in:$(li)DX Rider Gochizo Special Set -Tirol Choco Collaboration Ver- (2025, toyline)$(br2)Used to access Gavv's $(l:gavv/riders/gavv#tirol)Tirol Form$(/l)$(br2)Used to access Valen's $(l:gavv/riders/valen#tirol)Tirol Form$(/l)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:tirolchocolate_gochizo_variety",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#chocolate_bar)Chocolate Bars$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "strawberryjellytirol_gochizo",
+			"title": "Strawberry Jelly Tirol Chocolate Gochizo",
+			"text": "Appears in:$(li)DX Rider Gochizo Special Set -Tirol Choco Collaboration Ver- (2025, toyline)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:strawberryjellytirol_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#chocolate_bar)Chocolate Bars$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "nougattirol_gochizo",
+			"title": "Nougat Tirol Chocolate Gochizo",
+			"text": "Appears in:$(li)DX Rider Gochizo Special Set -Tirol Choco Collaboration Ver- (2025, toyline)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:nougattirol_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#chocolate_bar)Chocolate Bars$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "milktirol_gochizo",
+			"title": "Milk Tirol Chocolate Gochizo",
+			"text": "Appears in:$(li)DX Rider Gochizo Special Set -Tirol Choco Collaboration Ver- (2025, toyline)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:milktirol_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#chocolate_bar)Chocolate Bars$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "bispinktirol_gochizo",
+			"title": "Bis Tirol Chocolate Gochizo",
+			"text": "Appears in:$(li)DX Rider Gochizo Special Set -Tirol Choco Collaboration Ver- (2025, toyline)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:bispinktirol_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#chocolate_bar)Chocolate Bars$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "whiteandcookiestirol_gochizo",
+			"title": "White & Cookies Tirol Chocolate Gochizo",
+			"text": "Appears in:$(li)DX Rider Gochizo Special Set -Tirol Choco Collaboration Ver- (2025, toyline)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:whiteandcookiestirol_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#chocolate_bar)Chocolate Bars$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "crunchtirol_gochizo",
+			"title": "Crunchy Tirol Chocolate Gochizo",
+			"text": "Appears in:$(li)DX Rider Gochizo Special Set -Tirol Choco Collaboration Ver- (2025, toyline)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:crunchtirol_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#chocolate_bar)Chocolate Bars$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "almondtirol_gochizo",
+			"title": "Almond Tirol Chocolate Gochizo",
+			"text": "Appears in:$(li)DX Rider Gochizo Special Set -Tirol Choco Collaboration Ver- (2025, toyline)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:almondtirol_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#chocolate_bar)Chocolate Bars$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "bisbluetirol_gochizo",
+			"title": "Bis Tirol Chocolate Gochizo",
+			"text": "Appears in:$(li)DX Rider Gochizo Special Set -Tirol Choco Collaboration Ver- (2025, toyline)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:bisbluetirol_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#chocolate_bar)Chocolate Bars$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+      {
+        "type": "patchouli:text",
+        "anchor": "teriyaki_umaibo_gochizo",
+        "title": "Umaibo Gochizo (Teriyaki Flavour)",
+        "text": "Appears in:$(li)DX Rider Gochizo Special Set -Umaibo Collaboration Ver- (2025, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:teriyaki_umaibo_gochizo",
+        "title": " ",
+        "text": "Obtained by eating $(l:misc/items/foods#corn_snack)Corn Snacks$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "salad_umaibo_gochizo",
+        "title": "Umaibo Gochizo (Salad Flavour)",
+        "text": "Appears in:$(li)DX Rider Gochizo Special Set -Umaibo Collaboration Ver- (2025, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:salad_umaibo_gochizo",
+        "title": " ",
+        "text": "Obtained by eating $(l:misc/items/foods#corn_snack)Corn Snacks$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "tonkatsu_umaibo_gochizo",
+        "title": "Umaibo Gochizo (Tonkatsu Flavour)",
+        "text": "Appears in:$(li)DX Rider Gochizo Special Set -Umaibo Collaboration Ver- (2025, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:tonkatsu_umaibo_gochizo",
+        "title": " ",
+        "text": "Obtained by eating $(l:misc/items/foods#corn_snack)Corn Snacks$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "potage_umaibo_gochizo",
+        "title": "Umaibo Gochizo (Potage Flavour)",
+        "text": "Appears in:$(li)DX Rider Gochizo Special Set -Umaibo Collaboration Ver- (2025, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:potage_umaibo_gochizo",
+        "title": " ",
+        "text": "Obtained by eating $(l:misc/items/foods#corn_snack)Corn Snacks$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "natto_umaibo_gochizo",
+        "title": "Umaibo Gochizo (Natto Flavour)",
+        "text": "Appears in:$(li)DX Rider Gochizo Special Set -Umaibo Collaboration Ver- (2025, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:natto_umaibo_gochizo",
+        "title": " ",
+        "text": "Obtained by eating $(l:misc/items/foods#corn_snack)Corn Snacks$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "salami_umaibo_gochizo",
+        "title": "Umaibo Gochizo (Salami Flavour)",
+        "text": "Appears in:$(li)DX Rider Gochizo Special Set -Umaibo Collaboration Ver- (2025, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:salami_umaibo_gochizo",
+        "title": " ",
+        "text": "Obtained by eating $(l:misc/items/foods#corn_snack)Corn Snacks$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "takoyaki_umaibo_gochizo",
+        "title": "Umaibo Gochizo (Takoyaki Flavour)",
+        "text": "Appears in:$(li)DX Rider Gochizo Special Set -Umaibo Collaboration Ver- (2025, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:takoyaki_umaibo_gochizo",
+        "title": " ",
+        "text": "Obtained by eating $(l:misc/items/foods#corn_snack)Corn Snacks$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "mentaiko_umaibo_gochizo",
+        "title": "Umaibo Gochizo (Mentaiko Flavour)",
+        "text": "Appears in:$(li)DX Rider Gochizo Special Set -Umaibo Collaboration Ver- (2025, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:mentaiko_umaibo_gochizo",
+        "title": " ",
+        "text": "Obtained by eating $(l:misc/items/foods#corn_snack)Corn Snacks$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+		{
+			"type": "patchouli:text",
+			"anchor": "charapaki_gochizo",
+			"title": "Charapaki Gochizo",
+			"text": "Appears in:$(li)SG Charapaki Gochizo (2024, toyline)$(br2)Used to access Gavv's $(l:gavv/riders/gavv#chocohone)Chocohone Form$(/l)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:charapaki_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#chocolate_bar)Chocolate Bars$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "charapaki_gochizo_special",
+			"title": "Charapaki Gochizo (Special Ver.)",
+			"text": "Appears in:$(li)SG Charapaki Gochizo (2024, toyline)$(br2)Used to access Gavv's $(l:gavv/riders/gavv#chocohone_special)Chocohone Form$(/l)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:charapaki_gochizo_special",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#chocolate_bar)Chocolate Bars$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+      {
+        "type": "patchouli:text",
+        "anchor": "ope_dummy_gochizo",
+        "title": "OPE Dummy Gochizo",
+        "text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:ope_dummy_gochizo",
+        "title": " ",
+        "text": "Drops from:$(li)$(l:gavv/mobs/bocca_jaldak)Bocca Jaldak$(/l)"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "ple_dummy_gochizo",
+        "title": "PLE Dummy Gochizo",
+        "text": "Appears in:$(li)Kamen Rider Gavv (2024, TV show)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:ple_dummy_gochizo",
+        "title": " ",
+        "text": "Drops from:$(li)$(l:gavv/mobs/bocca_jaldak)Bocca Jaldak$(/l)"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "poppingummy_gochizo_halloween",
+        "title": "Mischievous Poppingummy Gochizo",
+        "text": "Appears in:$(li)Gochizo Party (2025, web series)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:poppingummy_gochizo_halloween",
+        "title": " ",
+        "text": "Obtained by opening Halloween $(l:misc/items/gashapon_capsules#halloween_gashapon_capsule)Gashapon Capsules$(/l)"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "chocozon_gochizo",
+        "title": "Chocozon Gochizo",
+        "text": "Appears in:$(li)Gochizo Party (2025, web series)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:chocozon_gochizo",
+        "title": " ",
+        "text": "Obtained by opening Halloween $(l:misc/items/gashapon_capsules#halloween_gashapon_capsule)Gashapon Capsules$(/l)"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "doracan_gochizo",
+        "title": "Doracan Gochizo",
+        "text": "Appears in:$(li)Gochizo Party (2025, web series)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:doracan_gochizo",
+        "title": " ",
+        "text": "Obtained by opening Halloween $(l:misc/items/gashapon_capsules#halloween_gashapon_capsule)Gashapon Capsules$(/l)"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "pumpkin_gochizo",
+        "title": "Pumpky Macaron Gochizo",
+        "text": "Appears in:$(li)Gochizo Party (2025, web series)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:pumpkin_gochizo",
+        "title": " ",
+        "text": "Obtained by opening Halloween $(l:misc/items/gashapon_capsules#halloween_gashapon_capsule)Gashapon Capsules$(/l)"
+      },
+		{
+			"type": "patchouli:text",
+			"anchor": "poppingummy_gochizo_charadeco",
+			"title": "poppingummy Gochizo (Charadeco ver.)",
+			"text": "Appears in:$(li)Kamen Rider Gavv Charadeco Cake (2024, pastry line)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:poppingummy_gochizo_charadeco_ver",
+			"title": " ",
+			"text": "Obtained by opening $(l:misc/items/gift)Gifts$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "merrychristmas_gochizo",
+			"title": "Merry Christmas Gochizo",
+			"text": "Appears in:$(li)DX Merry Christmas and Oshiruko Gochizo (2024, toyline)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:merrychristmas_gochizo",
+			"title": " ",
+			"text": "Obtained by opening $(l:misc/items/gift)Gifts$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "kamenridergummy_gochizo",
+			"title": "Kamen Rider Gummy Gochizo",
+			"text": "Appears in:$(li)Kamen Rider Gummi (2024, candy line)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:kamenridergummy_gochizo",
+			"title": " ",
+			"text": "Obtained by eating $(l:misc/items/foods#gummi_candy)Gummi Candy$(/l) with a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+		},
+      {
+        "type": "patchouli:text",
+        "anchor": "zeztz_gochizo",
+        "title": "Zeztz Gochizo",
+        "text": "Appears in:$(li)Gochizo Party (2025, web series)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:zeztz_gochizo",
+        "title": " ",
+        "text": "Obtained by eating snacks in the City dimension while having a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "gavv_gochizo",
+        "title": "Gavv Gochizo",
+        "text": "Appears in:$(li)Gochizo Party (2025, web series)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:gavv_gochizo",
+        "title": " ",
+        "text": "Obtained by eating snacks in the City dimension while having a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "valen_gochizo",
+        "title": "Valen Gochizo",
+        "text": "Appears in:$(li)Gochizo Party (2025, web series)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:valen_gochizo",
+        "title": " ",
+        "text": "Obtained by eating snacks in the City dimension while having a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "vram_gochizo",
+        "title": "Vram Gochizo",
+        "text": "Appears in:$(li)Gochizo Party (2025, web series)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:vram_gochizo",
+        "title": " ",
+        "text": "Obtained by eating snacks in the City dimension while having a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "gotchard_gochizo",
+        "title": "Gotchard Gochizo",
+        "text": "Appears in:$(li)Kamen Rider Gavv: Transformation Lessons (2024, web series)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:gotchard_gochizo",
+        "title": " ",
+        "text": "Obtained by eating snacks in the City dimension while having a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "geats_gochizo",
+        "title": "Geats Gochizo",
+        "text": "Appears in:$(li)Kamen Rider Gavv: Transformation Lessons (2024, web series)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:geats_gochizo",
+        "title": " ",
+        "text": "Obtained by eating snacks in the City dimension while having a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "revi_gochizo",
+        "title": "Revi Gochizo",
+        "text": "Appears in:$(li)Kamen Rider Gavv: Transformation Lessons (2024, web series)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:revi_gochizo",
+        "title": " ",
+        "text": "Obtained by eating snacks in the City dimension while having a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "vice_gochizo",
+        "title": "Vice Gochizo",
+        "text": "Appears in:$(li)Kamen Rider Gavv: Transformation Lessons (2024, web series)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:vice_gochizo",
+        "title": " ",
+        "text": "Obtained by eating snacks in the City dimension while having a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "saber_gochizo",
+        "title": "Saber Gochizo",
+        "text": "Appears in:$(li)Kamen Rider Gavv: Transformation Lessons (2024, web series)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:saber_gochizo",
+        "title": " ",
+        "text": "Obtained by eating snacks in the City dimension while having a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "zero_one_gochizo",
+        "title": "Zero-One Gochizo",
+        "text": "Appears in:$(li)Kamen Rider Gavv: Transformation Lessons (2024, web series)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:zero_one_gochizo",
+        "title": " ",
+        "text": "Obtained by eating snacks in the City dimension while having a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "zi_o_gochizo",
+        "title": "Zi-O Gochizo",
+        "text": "Appears in:$(li)DX Legend Rider Gochizo Set 02 (2024, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:zi_o_gochizo",
+        "title": " ",
+        "text": "Obtained by eating snacks in the City dimension while having a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "build_gochizo",
+        "title": "Build Gochizo",
+        "text": "Appears in:$(li)DX Legend Rider Gochizo Set 02 (2024, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:build_gochizo",
+        "title": " ",
+        "text": "Obtained by eating snacks in the City dimension while having a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "ex_aid_gochizo",
+        "title": "Ex-Aid Gochizo",
+        "text": "Appears in:$(li)DX Legend Rider Gochizo Set 03 (2024, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:ex_aid_gochizo",
+        "title": " ",
+        "text": "Obtained by eating snacks in the City dimension while having a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "ghost_gochizo",
+        "title": "Ghost Gochizo",
+        "text": "Appears in:$(li)GP Rider Gochizo 03 (2024, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:ghost_gochizo",
+        "title": " ",
+        "text": "Obtained by eating snacks in the City dimension while having a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "drive_gochizo",
+        "title": "Drive Gochizo",
+        "text": "Appears in:$(li)Drive Gochizo (2025, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:drive_gochizo",
+        "title": " ",
+        "text": "Obtained by eating snacks in the City dimension while having a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "gaim_gochizo",
+        "title": "Gaim Gochizo",
+        "text": "Appears in:$(li)DX Legend Rider Gochizo Set 03 (2024, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:gaim_gochizo",
+        "title": " ",
+        "text": "Obtained by eating snacks in the City dimension while having a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "wizard_gochizo",
+        "title": "Wizard Gochizo",
+        "text": "Appears in:$(li)SG Rider Gochizo 02 (2024, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:wizard_gochizo",
+        "title": " ",
+        "text": "Obtained by eating snacks in the City dimension while having a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "fourze_gochizo",
+        "title": "Fourze Gochizo",
+        "text": "Appears in:$(li)GP Rider Gochizo 02 (2024, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:fourze_gochizo",
+        "title": " ",
+        "text": "Obtained by eating snacks in the City dimension while having a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "ooo_gochizo",
+        "title": "OOO Gochizo",
+        "text": "Appears in:$(li)DX Legend Rider Gochizo Set 03 (2024, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:ooo_gochizo",
+        "title": " ",
+        "text": "Obtained by eating snacks in the City dimension while having a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "w_gochizo",
+        "title": "W Gochizo",
+        "text": "Appears in:$(li)DX Legend Rider Gochizo Set 01 (2024, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:w_gochizo",
+        "title": " ",
+        "text": "Obtained by eating snacks in the City dimension while having a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "decade_gochizo",
+        "title": "Decade Gochizo",
+        "text": "Appears in:$(li)DX Legend Rider Gochizo Set 02 (2024, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:decade_gochizo",
+        "title": " ",
+        "text": "Obtained by eating snacks in the City dimension while having a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "kiva_gochizo",
+        "title": "Kiva Gochizo",
+        "text": "Appears in:$(li)GP Rider Gochizo 02 (2024, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:kiva_gochizo",
+        "title": " ",
+        "text": "Obtained by eating snacks in the City dimension while having a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "den_o_gochizo",
+        "title": "Den-O Gochizo",
+        "text": "Appears in:$(li)DX Legend Rider Gochizo Set 01 (2024, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:den_o_gochizo",
+        "title": " ",
+        "text": "Obtained by eating snacks in the City dimension while having a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "kabuto_gochizo",
+        "title": "Kabuto Gochizo",
+        "text": "Appears in:$(li)SG Rider Gochizo 01 (2024, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:kabuto_gochizo",
+        "title": " ",
+        "text": "Obtained by eating snacks in the City dimension while having a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "hibiki_gochizo",
+        "title": "Hibiki Gochizo",
+        "text": "Appears in:$(li)GP Rider Gochizo 03 (2024, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:hibiki_gochizo",
+        "title": " ",
+        "text": "Obtained by eating snacks in the City dimension while having a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "blade_gochizo",
+        "title": "Blade Gochizo",
+        "text": "Appears in:$(li)GP Rider Gochizo 01 (2024, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:blade_gochizo",
+        "title": " ",
+        "text": "Obtained by eating snacks in the City dimension while having a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "faiz_gochizo",
+        "title": "Faiz Gochizo",
+        "text": "Appears in:$(li)DX Gavvphone (2024, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:faiz_gochizo",
+        "title": " ",
+        "text": "Obtained by eating snacks in the City dimension while having a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "ryuki_gochizo",
+        "title": "Ryuki Gochizo",
+        "text": "Appears in:$(li)SG Rider Gochizo 02 (2024, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:ryuki_gochizo",
+        "title": " ",
+        "text": "Obtained by eating snacks in the City dimension while having a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "agito_gochizo",
+        "title": "Agito Gochizo",
+        "text": "Appears in:$(li)SG Rider Gochizo 01 (2024, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:agito_gochizo",
+        "title": " ",
+        "text": "Obtained by eating snacks in the City dimension while having a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "kuuga_gochizo",
+        "title": "Kuuga Gochizo",
+        "text": "Appears in:$(li)Kamen Rider Gavv: Transformation Lessons (2024, web series)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:kuuga_gochizo",
+        "title": " ",
+        "text": "Obtained by eating snacks in the City dimension while having a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "j_gochizo",
+        "title": "J Gochizo",
+        "text": "Appears in:$(li)DX Legend Rider Gochizo Special Set -Showa Rider 02- (2025, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:j_gochizo",
+        "title": " ",
+        "text": "Item is currently unobtainable"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "zo_gochizo",
+        "title": "ZO Gochizo",
+        "text": "Appears in:$(li)DX Legend Rider Gochizo Special Set -Showa Rider 02- (2025, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:zo_gochizo",
+        "title": " ",
+        "text": "Item is currently unobtainable"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "shin_gochizo",
+        "title": "Shin Gochizo",
+        "text": "Appears in:$(li)DX Legend Rider Gochizo Special Set -Showa Rider 02- (2025, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:shin_gochizo",
+        "title": " ",
+        "text": "Item is currently unobtainable"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "black_rx_gochizo",
+        "title": "Black RX Gochizo",
+        "text": "Appears in:$(li)DX Legend Rider Gochizo Special Set -Showa Rider 02- (2025, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:black_rx_gochizo",
+        "title": " ",
+        "text": "Item is currently unobtainable"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "shadowmoon_gochizo",
+        "title": "Shadow Moon Gochizo",
+        "text": "Appears in:$(li)DX Legend Rider Gochizo Special Set -Showa Rider 02- (2025, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:shadowmoon_gochizo",
+        "title": " ",
+        "text": "Item is currently unobtainable"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "black_gochizo",
+        "title": "Black Gochizo",
+        "text": "Appears in:$(li)DX Legend Rider Gochizo Special Set -Showa Rider 02- (2025, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:black_gochizo",
+        "title": " ",
+        "text": "Item is currently unobtainable"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "zx_gochizo",
+        "title": "ZX Gochizo",
+        "text": "Appears in:$(li)DX Legend Rider Gochizo Special Set -Showa Rider 01- (2025, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:zx_gochizo",
+        "title": " ",
+        "text": "Item is currently unobtainable"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "super_1_gochizo",
+        "title": "Super-1 Gochizo",
+        "text": "Appears in:$(li)DX Legend Rider Gochizo Special Set -Showa Rider 01- (2025, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:super_1_gochizo",
+        "title": " ",
+        "text": "Item is currently unobtainable"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "skyrider_gochizo",
+        "title": "Skyrider Gochizo",
+        "text": "Appears in:$(li)DX Legend Rider Gochizo Special Set -Showa Rider 01- (2025, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:skyrider_gochizo",
+        "title": " ",
+        "text": "Item is currently unobtainable"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "stronger_gochizo",
+        "title": "Stronger Gochizo",
+        "text": "Appears in:$(li)DX Legend Rider Gochizo Special Set -Showa Rider 01- (2025, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:stronger_gochizo",
+        "title": " ",
+        "text": "Item is currently unobtainable"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "amazon_gochizo",
+        "title": "Amazon Gochizo",
+        "text": "Appears in:$(li)DX Legend Rider Gochizo Special Set -Showa Rider 01- (2025, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:amazon_gochizo",
+        "title": " ",
+        "text": "Item is currently unobtainable"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "x_gochizo",
+        "title": "X Gochizo",
+        "text": "Appears in:$(li)DX Legend Rider Gochizo Special Set -Showa Rider 01- (2025, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:x_gochizo",
+        "title": " ",
+        "text": "Item is currently unobtainable"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "riderman_gochizo",
+        "title": "Riderman Gochizo",
+        "text": "Appears in:$(li)DX Legend Rider Gochizo Special Set -Showa Rider 01- (2025, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:riderman_gochizo",
+        "title": " ",
+        "text": "Item is currently unobtainable"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "v3_gochizo",
+        "title": "V3 Gochizo",
+        "text": "Appears in:$(li)DX Legend Rider Gochizo Special Set -Showa Rider 01- (2025, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:v3_gochizo",
+        "title": " ",
+        "text": "Item is currently unobtainable"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "nigo_gochizo",
+        "title": "Nigo Gochizo",
+        "text": "Appears in:$(li)DX Legend Rider Gochizo Special Set -Showa Rider 01- (2025, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:nigo_gochizo",
+        "title": " ",
+        "text": "Item is currently unobtainable"
+      },
+      {
+        "type": "patchouli:text",
+        "anchor": "ichigo_gochizo",
+        "title": "Ichigo Gochizo",
+        "text": "Appears in:$(li)DX Legend Rider Gochizo Special Set -Showa Rider 01- (2025, toyline)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:ichigo_gochizo",
+        "title": " ",
+        "text": "Item is currently unobtainable"
+      },
+		{
+			"type": "patchouli:text",
+			"anchor": "boonboomger_gochizo",
+			"title": "Boonboomger Gochizo",
+			"text": "Appears in:$(li)Televi-Kun (November 2024, magazine)$(br2)Used to access Gavv's $(l:gavv/riders/gavv#boonboomger)Boonboomger Assist$(/l)"
+		},
+		{
+          "type": "patchouli:crafting",
+          "title": " ",
+          "recipe": "kamenridercraft:gavv/boonboomger_gochizo",
+          "text": "Obtained by eating snacks in Super Sentai Topia while having a $(l:gavv/items/blank_gochizo)Blank Gochizo$(/l) in your inventory$(br2)If you do not see a crafting recipe, you need to install the Super Sentai Craft mod"
+		}
+	]
+}

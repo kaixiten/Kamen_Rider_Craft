@@ -1,0 +1,17 @@
+{
+	"name": "Fangire Glass",
+	"icon": "kamenridercraft:fangire_glass",
+	"category": "kamenridercraft:misc/blocks",
+	"sortnum": 17,
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"text": "A glass block for decoration"
+		},
+		{
+			"type": "patchouli:smelting",
+			"recipe": "kamenridercraft:kiva/fangire_glass",
+          "text": "Found inside $(l:kiva/structures/castle_doran)Castle Doran$(/l)"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "category": "equipment",
+  "group": "gai",
+  "pattern": [
+	"XXX",
+	"XMX",
+	"XXX"
+  ],
+  "key": {
+	"X": {
+	  "item": "kamenridercraft:advent_card"
+	},
+	"M": {
+	  "item": "kamenridercraft:advent_deck_gai"
+	}
+  },
+  "result": {
+	"id": "kamenridercraft:v_buckle_gai"
+  }	
+}

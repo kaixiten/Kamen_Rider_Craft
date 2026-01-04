@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "group": "dogga",
+  "ingredients": [
+{
+	
+	  "item": "kamenridercraft:dogga_hammer"
+	}, 
+	{
+	  "item": "kamenridercraft:tatsulot"
+	} 
+	],
+  "result": {
+	"id": "kamenridercraft:dogga_hammer_tatsulot"
+  }
+}

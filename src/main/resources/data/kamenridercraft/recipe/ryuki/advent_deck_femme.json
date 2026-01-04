@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "ryuki",
+  "pattern": [
+	"XXX",
+	"XZX",
+	"XXX"
+  ],
+  "key": {
+	"X": {
+	  "item": "kamenridercraft:advent_card"
+	}, "Z": {
+	  "item": "kamenridercraft:blancwing_advent"
+	}
+  },
+  "result": {
+	"id": "kamenridercraft:advent_deck_femme"
+  }
+}

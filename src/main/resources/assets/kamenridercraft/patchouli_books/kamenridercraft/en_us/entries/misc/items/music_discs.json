@@ -1,0 +1,463 @@
+{
+	"name": "Music Discs",
+	"icon": "kamenridercraft:lets_go_rider_kick_music_disc",
+	"category": "kamenridercraft:misc/items",
+	"sortnum": 999,
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"text": "An assortment of music discs featuring note block renditions of popular songs from the Kamen Rider Series."
+		},
+		{
+			"type": "patchouli:empty"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "lets_go_rider_kick_music_disc",
+			"text": "Song:$(li)HosephHoestar - Let's Go!! Rider Kick$(br2)Based on:$(li)Hiroshi Fujioka/Koichi Fuji - Let's Go!! Rider Kick$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Kamen Rider (1971, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:lets_go_rider_kick_music_disc",
+			"text": "Obtained by Rider Kicking a $(l:ichigo/mobs/shocker_combatman)Shocker Combatman$(/l) as $(l:ichigo/riders/ichigo)Kamen Rider Ichigo$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "tatakae_kamen_rider_v3_music_disc",
+			"text": "Song:$(li)HosephHoestar - Tatakae! Kamen Rider V3$(br2)Based on:$(li)Hiroshi Miyauchi & The Swingers - Tatakae! Kamen Rider V3$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Kamen Rider V3 (1973, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:tatakae_kamen_rider_v3_music_disc",
+			"text": "Disc is currently unobtainable"
+		},
+      {
+        "type": "patchouli:text",
+        "anchor": "set_up_kamen_rider_x_music_disc",
+        "text": "Song:$(li)HosephHoestar - Set Up! Kamen Rider X$(br2)Based on:$(li)Ichiro Mizuki - Set Up! Kamen Rider X$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Kamen Rider X (1974, TV show)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:set_up_kamen_rider_x_music_disc",
+        "text": "Disc is currently unobtainable"
+      },
+		{
+			"type": "patchouli:text",
+			"anchor": "amazon_rider_koko_ni_ari_music_disc",
+			"text": "Song:$(li)HosephHoestar - Amazon Rider Koko ni Ari$(br2)Based on:$(li)Masato Shimon - Amazon Rider Koko ni Ari$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Kamen Rider Amazon (1974, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:amazon_rider_koko_ni_ari_music_disc",
+			"text": "Disc is currently unobtainable"
+		},
+      {
+        "type": "patchouli:text",
+        "anchor": "kamen_rider_stronger_no_uta_music_disc",
+        "text": "Song:$(li)HosephHoestar - Kamen Rider Stronger no Uta$(br2)Based on:$(li)Ichiro Mizuki - Kamen Rider Stronger no Uta$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Kamen Rider Stronger (1975, TV show)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:kamen_rider_stronger_no_uta_music_disc",
+        "text": "Disc is currently unobtainable"
+      },
+		{
+			"type": "patchouli:text",
+			"anchor": "moero_kamen_rider_music_disc",
+			"text": "Song:$(li)HosephHoestar - Moero! Kamen Rider$(br2)Based on:$(li)Ichiro Mizuki & Koorogi '73 - Moero! Kamen Rider$(br)Type:$(li)Opening theme$(br)Appears in:$(li)The New Kamen Rider (1979, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:moero_kamen_rider_music_disc",
+			"text": "Disc is currently unobtainable"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "kamen_rider_super_1_music_disc",
+			"text": "Song:$(li)HosephHoestar - Kamen Rider Super-1$(br2)Based on:$(li)Shunsuke Takasugi & Koorogi '73 - Kamen Rider Super-1$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Kamen Rider Super-1 (1980, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:kamen_rider_super_1_music_disc",
+			"text": "Disc is currently unobtainable"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "dragon_road_music_disc",
+			"text": "Song:$(li)HosephHoestar - Dragon Road$(br2)Based on:$(li)Akira Kushida - Dragon Road$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Birth of the 10th! Kamen Riders All Together!! (1984, TV special)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:dragon_road_music_disc",
+			"text": "Disc is currently unobtainable"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "kamen_rider_black_music_disc",
+			"text": "Song:$(li)HosephHoestar - Kamen Rider Black$(br2)Based on:$(li)Tetsuo Kurata - Kamen Rider Black$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Kamen Rider Black (1987, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:kamen_rider_black_music_disc",
+			"text": "Disc is currently unobtainable"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "kamen_rider_black_rx_music_disc",
+			"text": "Song:$(li)HosephHoestar - Kamen Rider Black RX$(br2)Based on:$(li)Takayuki Miyauchi - Kamen Rider Black RX$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Kamen Rider Black RX (1988, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:kamen_rider_black_rx_music_disc",
+			"text": "Disc is currently unobtainable"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "kamen_rider_kuuga_music_disc",
+			"text": "Song:$(li)HosephHoestar - Kamen Rider Kuuga!$(br2)Based on:$(li)Masayuki Tanaka - Kamen Rider Kuuga!$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Kamen Rider Kuuga (2000, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:kamen_rider_kuuga_music_disc",
+			"text": "Found in suspicious gravel around $(l:kuuga/structures/kuuga_ruin)Kuuga's Tomb$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "kamen_rider_agito_music_disc",
+			"text": "Song:$(li)HosephHoestar - Kamen Rider AGITO$(br2)Based on:$(li)Shinichi Ishihara - Kamen Rider AGITO$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Kamen Rider Agito (2001, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:kamen_rider_agito_music_disc",
+			"text": "Disc is currently unobtainable"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "alive_a_life_music_disc",
+			"text": "Song:$(li)HosephHoestar - Alive A life$(br2)Based on:$(li)Rica Matsumoto - Alive A life$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Kamen Rider Ryuki (2002, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:alive_a_life_music_disc",
+			"text": "Disc is currently unobtainable"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "justifaiz_music_disc",
+			"text": "Song:$(li)HosephHoestar - Justiφ's$(br2)Based on:$(li)ISSA - Justiφ's$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Kamen Rider 555 (2003, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:justifaiz_music_disc",
+			"text": "Disc is currently unobtainable"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "round_zero_blade_brave_music_disc",
+			"text": "Song:$(li)HosephHoestar - Round ZERO~BLADE BRAVE$(br2)Based on:$(li)Nanase Aikawa - Round ZERO~BLADE BRAVE$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Kamen Rider Blade (2004, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:round_zero_blade_brave_music_disc",
+			"text": "Disc is currently unobtainable"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "rebirth_music_disc",
+			"text": "Song:$(li)HosephHoestar - rebirth$(br2)Based on:$(li)Kousei Amano - rebirth$(br)Type:$(li)Insert song, secondary Rider theme$(br)Appears in:$(li)Kamen Rider Blade (2004, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:rebirth_music_disc",
+			"text": "Disc is currently unobtainable"
+		},
+      {
+        "type": "patchouli:text",
+        "anchor": "kagayaki_music_disc",
+        "text": "Song:$(li)HosephHoestar - Kagayaki$(br2)Based on:$(li)Toshihiko Sahashi - Kagayaki$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Kamen Rider Hibiki (2005, TV show)"
+      },
+      {
+        "type": "patchouli:crafting",
+        "recipe": "kamenridercraft:hibiki/kagayaki_music_disc"
+      },
+		{
+			"type": "patchouli:text",
+			"anchor": "next_level_music_disc",
+			"text": "Song:$(li)HosephHoestar - NEXT LEVEL$(br2)Based on:$(li)YU-KI - NEXT LEVEL$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Kamen Rider Kabuto (2006, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:next_level_music_disc",
+			"text": "Obtained as trial loot from the $(l:kabuto/structures/god_speed_love)God Speed Love$(/l) structure"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "climax_jump_music_disc",
+			"text": "Song:$(li)HosephHoestar - Climax Jump$(br2)Based on:$(li)AAA - Climax Jump$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Kamen Rider Den-O (2007, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:climax_jump_music_disc",
+			"text": "Disc is currently unobtainable"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "break_the_chain_music_disc",
+			"text": "Song:$(li)HosephHoestar - Break the Chain$(br2)Based on:$(li)Tourbillon - Break the Chain$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Kamen Rider Kiva (2008, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:break_the_chain_music_disc",
+			"text": "Found inside $(l:kiva/structures/castle_doran)Castle Doran$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "journey_through_the_decade_music_disc",
+			"text": "Song:$(li)HosephHoestar - Journey Through the Decade$(br2)Based on:$(li)Gackt - Journey Through the Decade$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Kamen Rider Decade (2009, TV show)"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "kamenridercraft:decade/journey_through_the_decade_music_disc"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "w_b_x_w_boiled_xtreme_music_disc",
+			"text": "Song:$(li)HosephHoestar - W-B-X ~W-Boiled Extreme~$(br2)Based on:$(li)Aya Kamiki w TAKUYA - W-B-X ~W-Boiled Extreme~$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Kamen Rider W (2009, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:w_b_x_w_boiled_xtreme_music_disc",
+			"text": "Found inside the $(l:misc/city/urban_area#narumi_detective_office)Narumi Detective Office$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "anything_goes_music_disc",
+			"text": "Song:$(li)HosephHoestar - Anything Goes!$(br2)Based on:$(li)Maki Ohguro - Anything Goes!$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Kamen Rider OOO (2010, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:anything_goes_music_disc",
+			"text": "Found inside the $(l:misc/city/suburban_area#cous_coussier)Cous Coussier$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "switch_on_music_disc",
+			"text": "Song:$(li)HosephHoestar - Switch On!$(br2)Based on:$(li)Anna Tsuchiya - Switch On!$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Kamen Rider Fourze (2011, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:switch_on_music_disc",
+			"text": "Disc is currently unobtainable"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "life_is_showtime_music_disc",
+			"text": "Song:$(li)HosephHoestar - Life is SHOW TIME$(br2)Based on:$(li)Sho Kiryuin from Golden Bomber - Life is SHOW TIME$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Kamen Rider Wizard (2012, TV show)"
+		},
+		{
+          "type": "patchouli:crafting",
+          "recipe": "kamenridercraft:wizard/life_is_showtime_music_disc"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "just_live_more_music_disc",
+			"text": "Song:$(li)HosephHoestar - JUST LIVE MORE$(br2)Based on:$(li)Gaim no Kaze - JUST LIVE MORE$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Kamen Rider Gaim (2013, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:just_live_more_music_disc",
+			"text": "Found in suspicious gravel around the $(l:gaim/structures/rosyuo_helheim_city)Over $(/l)$(l:gaim/structures/redyue_helheim_city)Lords' $(/l)$(l:gaim/structures/demushu_helheim_city)structures$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "surprise_drive_music_disc",
+			"text": "Song:$(li)HosephHoestar - SURPRISE-DRIVE$(br2)Based on:$(li)Mitsuru Matsuoka EARNEST DRIVE - SURPRISE-DRIVE$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Kamen Rider Drive (2014, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:surprise_drive_music_disc",
+			"text": "Disc is currently unobtainable"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "warera_omou_yue_ni_warera_ari_music_disc",
+			"text": "Song:$(li)HosephHoestar - Warera Omou, Yue Ni Warera Ari$(br2)Based on:$(li)Kishidan - Warera Omou, Yue Ni Warera Ari$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Kamen Rider Ghost (2015, TV show)"
+		},
+		{
+          "type": "patchouli:crafting",
+          "recipe": "kamenridercraft:ghost/warera_omou_yue_ni_warera_ari_music_disc"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "excite_music_disc",
+			"text": "Song:$(li)HosephHoestar - EXCITE$(br2)Based on:$(li)Daichi Miura - EXCITE$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Kamen Rider Ex-Aid (2016, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:excite_music_disc",
+			"text": "Found inside $(l:misc/city/centers#seito_u_hospital)Seito University Hospital$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "be_the_one_music_disc",
+			"text": "Song:$(li)HosephHoestar - Be The One$(br2)Based on:$(li)PANDORA feat. Beverly - Be The One$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Kamen Rider Build (2017, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:be_the_one_music_disc",
+			"text": "Found inside $(l:misc/city/urban_area#nascita)Nascita$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "over_quartzer_music_disc",
+			"text": "Song:$(li)HosephHoestar - Over \"Quartzer\"$(br2)Based on:$(li)Shuta Sueyoshi feat. ISSA - Over \"Quartzer\"$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Kamen Rider Zi-O (2018, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:over_quartzer_music_disc",
+			"text": "Disc is currently unobtainable"
+		},
+      {
+        "type": "patchouli:text",
+        "anchor": "p_a_r_t_y_universe_festival_music_disc",
+        "text": "Song:$(li)HosephHoestar - P. A. R. T. Y. ~Universe Festival~$(br2)Based on:$(li)DA PUMP - P. A. R. T. Y. ~Universe Festival~$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Kamen Rider Zi-O: Over Quartzer (2019, movie)"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "link_recipe": true,
+        "item": "kamenridercraft:p_a_r_t_y_universe_festival_music_disc",
+        "text": "Obtained by opening $(l:misc/items/gift)Gifts$(/l)"
+      },
+		{
+			"type": "patchouli:text",
+			"anchor": "realxeyez_music_disc",
+			"text": "Song:$(li)HosephHoestar - REAL×EYEZ$(br2)Based on:$(li)J×Takanori Nishikawa - REAL×EYEZ$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Kamen Rider Zero-One (2019, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:realxeyez_music_disc",
+			"text": "Traded by a master $(l:misc/villagers#humagear_villager)Humagear Villager$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "almighty_music_disc",
+			"text": "Song:$(li)HosephHoestar - ALMIGHTY ~ Kamen no Yakusoku$(br2)Based on:$(li)Tokyo Ska Paradise Orchestra with Yoohei Kawakami - ALMIGHTY ~ Kamen no Yakusoku$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Kamen Rider Saber (2020, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:almighty_music_disc",
+			"text": "Found inside the $(l:misc/city/suburban_area#fantastic_bookstore_kamiyama)Fantastic Bookstore Kamiyama$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "livedevil_music_disc",
+			"text": "Song:$(li)HosephHoestar - liveDevil$(br2)Based on:$(li)Da-iCE ft. Subaru Kimura - liveDevil$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Kamen Rider Revice (2021, TV show)"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "kamenridercraft:revice/livedevil_music_disc"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "george_karizakis_rider_system_music_disc",
+			"text": "Song:$(li)HosephHoestar - George Karizaki's Rider System$(br2)Based on:$(li)Noritaka Hamao - George Karizaki's Rider System$(br)Type:$(li)Ending theme$(br)Appears in:$(li)Kamen Rider Juuga VS Kamen Rider Orteca (2023, web series)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:george_karizakis_rider_system_music_disc",
+			"text": "Disc is currently unobtainable"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "trust_last_music_disc",
+			"text": "Song:$(li)HosephHoestar - Trust・Last$(br2)Based on:$(li)Koda Kumi x Shonan no Kaze - Trust・Last$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Kamen Rider Geats (2022, TV show)"
+		},
+		{
+          "type": "patchouli:crafting",
+          "recipe": "kamenridercraft:geats/trust_last_music_disc"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "chemy_x_story_music_disc",
+			"text": "Song:$(li)HosephHoestar - CHEMY×STORY$(br2)Based on:$(li)BACK-ON - CHEMY×STORY$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Kamen Rider Gotchard (2023, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:chemy_x_story_music_disc",
+			"text": "Disc is currently unobtainable"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "chemy_x_story_flow_music_disc",
+			"text": "Song:$(li)HosephHoestar - CHEMY×STORY (BACK-ON × FLOW ver.)$(br2)Based on:$(li)BACK-ON×FLOW - CHEMY×STORY$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Kamen Rider Gotchard (2023, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:chemy_x_story_flow_music_disc",
+			"text": "Disc is currently unobtainable"
+		},
+		{
+			"type": "patchouli:text",
+			"anchor": "got_boost_music_disc",
+			"text": "Song:$(li)HosephHoestar - Got Boost?$(br2)Based on:$(li)FANTASTICS from EXILE TRIBE - Got Boost?$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Kamen Rider Gavv (2024, TV show)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:got_boost_music_disc",
+			"text": "Disc is currently unobtainable"
+		},
+      {
+        "type": "patchouli:text",
+        "anchor": "visions_music_disc",
+        "text": "Song:$(li)HosephHoestar - VISIONS$(br2)Based on:$(li)NAQT VANE - VISIONS$(br)Type:$(li)Opening theme$(br)Appears in:$(li)Kamen Rider Zeztz (2025, TV show)"
+      },
+      {
+        "type": "patchouli:crafting",
+        "recipe": "kamenridercraft:zeztz/visions_music_disc"
+      },
+		{
+			"type": "patchouli:text",
+			"anchor": "masked_rider_music_disc",
+			"text": "Song:$(li)HosephHoestar - Masked Rider$(br2)Based on:$(li)Idk you figure it out$(br)Type:$(li)Opening theme$(br)Appears in:$(li)[REDACTED]"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:masked_rider_music_disc",
+			"text": "Drops from:$(li)$(l:black/mobs/shadow_moon)Robo Rider$(/l) (during April Fools')"
+		}
+	]
+}

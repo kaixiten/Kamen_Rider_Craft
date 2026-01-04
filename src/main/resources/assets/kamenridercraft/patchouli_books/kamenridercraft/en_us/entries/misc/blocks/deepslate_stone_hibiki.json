@@ -1,0 +1,19 @@
+{
+	"name": "Deepslate Oni Ore",
+	"icon": "kamenridercraft:deepslate_stone_hibiki",
+	"category": "kamenridercraft:misc/blocks",
+	"sortnum": 14,
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"text": "Mine this block to obtain Disk Animals$(br2)Requires an iron pickaxe or better$(br2)$(l)No longer spawns naturally as of the 2025 Halloween update"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:deepslate_stone_hibiki",
+			"title": " ",
+            "text": "Drops:$(li)$(l:hibiki/items/oni_ore)Akane Taka Disk Animal$(/l) (60%)$(li)$(l:hibiki/items/oni_orehell)Asagi Washi Disk Animal$(/l) (40%)"
+		}
+	]
+}

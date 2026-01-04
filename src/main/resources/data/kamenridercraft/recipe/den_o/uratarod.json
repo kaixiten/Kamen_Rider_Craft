@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "urataros",
+  "pattern": [
+    "XXX",
+    "XCX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "kamenridercraft:rider_ticket_rod"
+    }, "C": {
+      "item": "kamenridercraft:base_sword"
+    }
+  },
+  "result": {
+    "id": "kamenridercraft:uratarod"
+  }
+}

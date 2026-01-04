@@ -1,0 +1,106 @@
+{
+	"name": "Kamen Rider Ichigo",
+	"icon": "kamenridercraft:typhoon_core",
+	"category": "kamenridercraft:ichigo/riders",
+	"sortnum": 0,
+	"pages": [
+		{
+			"type": "patchouli:entity",
+			"anchor": "new_ichigo",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:typhoon_ichigo\",components:{custom_data:{slot_tex1:\"kamenridercraft:typhoon_core\"}},Count:1b},{id:\"kamenridercraft:ichigolegs\",Count:1b},{id:\"kamenridercraft:ichigotroso\",Count:1b},{id:\"kamenridercraft:ichigohead\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": "New Ichigo",
+			"text": "Accessed with the $(l:ichigo/items/typhoon_cores#typhoon_core)Typhoon Core$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Kamen Rider Ichigo",
+			"text": "Appears in:$(li)Kamen Rider (1971, TV show)$(br2)Transforms with the $(l:ichigo/devices/typhoon#typhoon_ichigo)Typhoon$(/l)$(br2)Status Effects:$(li)Speed II$(li)Jump Boost III$(li)Strength II"
+		},
+		{
+			"type": "patchouli:entity",
+			"anchor": "original_ichigo",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:typhoon_ichigo\",components:{custom_data:{slot_tex1:\"kamenridercraft:original_typhoon_core\"}},Count:1b},{id:\"kamenridercraft:ichigolegs\",Count:1b},{id:\"kamenridercraft:ichigotroso\",Count:1b},{id:\"kamenridercraft:ichigohead\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": "Original Ichigo",
+			"text": "Accessed with the $(l:ichigo/items/typhoon_cores#original_typhoon_core)Typhoon Core (Original)$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Kamen Rider Ichigo",
+			"text": "Appears in:$(li)Kamen Rider (1971, TV show)$(br2)Transforms with the $(l:ichigo/devices/typhoon#typhoon_ichigo)Typhoon$(/l)$(br2)Status Effects:$(li)Speed II$(li)Jump Boost III$(li)Strength II"
+		},
+		{
+			"type": "patchouli:entity",
+			"anchor": "sakurajima_ichigo",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:typhoon_ichigo\",components:{custom_data:{slot_tex1:\"kamenridercraft:sakurajima_typhoon_core\"}},Count:1b},{id:\"kamenridercraft:ichigolegs\",Count:1b},{id:\"kamenridercraft:ichigotroso\",Count:1b},{id:\"kamenridercraft:ichigohead\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": "Sakurajima Ichigo",
+			"text": "Accessed with the $(l:ichigo/items/typhoon_cores#sakurajima_typhoon_core)Typhoon Core (Sakurajima)$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Kamen Rider Ichigo",
+			"text": "Appears in:$(li)Kamen Rider (1971, TV show)$(br2)Transforms with the $(l:ichigo/devices/typhoon#typhoon_ichigo)Typhoon$(/l)$(br2)Status Effects:$(li)Speed II$(li)Jump Boost III$(li)Strength II"
+		},
+		{
+			"type": "patchouli:entity",
+			"anchor": "power_up_ichigo",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:typhoon_ichigo\",components:{custom_data:{slot_tex1:\"kamenridercraft:new_typhoon_core\"}},Count:1b},{id:\"kamenridercraft:ichigolegs\",Count:1b},{id:\"kamenridercraft:ichigotroso\",Count:1b},{id:\"kamenridercraft:ichigohead\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": "Power Up",
+			"text": "Accessed with the $(l:ichigo/items/typhoon_cores#new_typhoon_core)Power Up Typhoon Core$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Kamen Rider Ichigo",
+			"text": "Appears in:$(li)Kamen Rider 1 (2016, movie)$(br2)Transforms with the $(l:ichigo/devices/typhoon#typhoon_ichigo)Typhoon$(/l)$(br2)Status Effects:$(li)Speed II$(li)Jump Boost III$(li)Strength II"
+		},
+      {
+        "type": "patchouli:entity",
+        "anchor": "manga_ichigo",
+        "entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:typhoon_ichigo\",components:{custom_data:{slot_tex1:\"kamenridercraft:ichigo_manga\"}},Count:1b},{id:\"kamenridercraft:ichigolegs\",Count:1b},{id:\"kamenridercraft:ichigotroso\",Count:1b},{id:\"kamenridercraft:ichigohead\",Count:1b}]}",
+        "scale": -1,
+        "offset": 0.1,
+        "name": "Manga Ichigo",
+        "text": "Accessed with the $(l:ichigo/items/ichigo_manga)Kamen Rider Manga$(/l)"
+      },
+      {
+        "type": "patchouli:text",
+        "title": "Kamen Rider Ichigo",
+        "text": "Appears in:$(li)Kamen Rider (1971, manga)$(br2)Transforms with the $(l:ichigo/devices/typhoon#typhoon_ichigo)Typhoon$(/l)$(br2)Status Effects:$(li)Speed II$(li)Jump Boost III$(li)Strength II$(li)Flatten"
+      },
+		{
+			"type": "patchouli:entity",
+			"anchor": "cyclonehopper_ichigo",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:typhoon_ichigo\",components:{custom_data:{slot_tex1:\"kamenridercraft:cyclonehopper\"}},Count:1b},{id:\"kamenridercraft:ichigolegs\",Count:1b},{id:\"kamenridercraft:ichigotroso\",Count:1b},{id:\"kamenridercraft:ichigohead\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": "Cyclonehopper",
+			"text": "Accessed with the $(l:misc/items/card_warrior_cards#cyclonehopper)Cyclonehopper Card Warrior Card$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Kamen Rider Ichigo",
+			"text": "Appears in:$(li)Card Warrior Kamen Riders (2009, manga/toyline)$(br2)Transforms with the $(l:ichigo/devices/typhoon#typhoon_ichigo)Typhoon$(/l)$(br2)Status Effects:$(li)Flying II$(li)Punch V (with empty hand)$(li)Speed IV$(li)Resistance IV$(li)Jump Boost V$(li)Strength VIII (with empty hand)$(li)Strength IV (with weapon)"
+		},
+		{
+			"type": "patchouli:entity",
+			"anchor": "blue_metallic_color",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:typhoon_ichigo\",components:{custom_data:{slot_tex1:\"kamenridercraft:typhoon_core_artist\"}},Count:1b},{id:\"kamenridercraft:ichigolegs\",Count:1b},{id:\"kamenridercraft:ichigotroso\",Count:1b},{id:\"kamenridercraft:ichigohead\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": "Blue Metallic Color",
+			"text": "Accessed with the $(l:misc/items/kuuga_amazing_mighty_artist)S.I.C. Hero Saga$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Kamen Rider Ichigo",
+			"text": "Appears in:$(li)S.I.C. Takumi Damashii Vol. 2 (2003, toyline)$(br2)Transforms with the $(l:ichigo/devices/typhoon#typhoon_ichigo)Typhoon$(/l)$(br2)Status Effects:$(li)Speed II$(li)Jump Boost III$(li)Strength II"
+		}
+	]
+}

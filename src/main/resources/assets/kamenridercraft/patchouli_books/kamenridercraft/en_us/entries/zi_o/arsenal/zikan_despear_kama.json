@@ -1,0 +1,17 @@
+{
+	"name": "Zikan Despear (Kama)",
+	"icon": "kamenridercraft:zikan_despear_kama",
+	"category": "kamenridercraft:zi_o/arsenal",
+	"sortnum": 9,
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"text": "Appears in:$(li)Kamen Rider Zi-O (2018, TV show)$(br2)Used by $(l:zi_o/riders/woz)Kamen Rider Woz$(/l)"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "kamenridercraft:zi_o/zikan_despear_kama",
+          "text": "Drops from:$(li)$(l:zi_o/mobs/woz)Kamen Rider Woz (White Woz)$(/l)'s equipment"
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"name": "Nebulasteam Gun",
+	"icon": "kamenridercraft:nebulasteam_gun",
+	"category": "kamenridercraft:build/arsenal",
+	"sortnum": 12,
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"text": "Appears in:$(li)Kamen Rider Build (2017, TV show)$(br2)Used by the $(l:build/riders/kaiser)Kaisers$(/l), $(l:build/riders/bros)Bro's$(/l), and $(l:build/riders/rogue)Kamen Rider Rogue$(/l)$(br2)Used to obtain the Kaisers' $(l:build/devices/nebulasteam_gun#nebula_steam_gun_kaiser)Nebulasteam Gun (Kaiser)$(/l)$(br2)Used with a $(l:build/items/gears#gear_engine)Gear Engine$(/l) or $(l:build/items/gears#gear_remocon)Gear Remocon$(/l) in your off-hand to obtain the Bros' $(l:build/devices/nebulasteam_gun#nebula_steam_gun_hell_bros)Nebulasteam Gun (Hell Bro's)$(/l)"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"link_recipe": true,
+			"item": "kamenridercraft:nebulasteam_gun",
+			"title": " ",
+          "text": "Drops from:$(li)$(l:build/mobs/engine_bros)Engine Bros$(/l)'s equipment$(li)$(l:build/mobs/kaiser)Kaiser$(/l)'s equipment$(li)$(l:build/mobs/kaiser_reverse)Kaiser Reverse$(/l)'s equipment$(li)$(l:build/mobs/bikaiser)Bikaiser$(/l)'s equipment"
+		}
+	]
+}

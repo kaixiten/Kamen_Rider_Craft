@@ -1,0 +1,21 @@
+{
+	"name": "Yummy",
+	"icon": "kamenridercraft:ooo_logo",
+	"category": "kamenridercraft:ooo/mobs",
+	"sortnum": 0,
+	"pages": [
+		{
+			"type": "patchouli:entity",
+			"entity": "kamenridercraft:yummy_mob",
+			"text": "Appears in:$(li)Kamen Rider OOO (2010, TV show)$(br)Health: 30"
+		},
+		{
+			"type": "patchouli:text",
+			"text": "Spawn locations: Desert, Windswept Hills$(br2)Drops$(li)2-4 $(l:ooo/items/cellmedal)Cell Medals$(/l)$(li)1 $(l:ooo/items/cellmedal)Cell Medal$(/l) (40%)$(li)1 $(l:ooo/items/core_medals#taka_medal)Taka Medal$(/l) (20%)$(li)1 $(l:ooo/items/core_medals#tora_medal)Tora Medal$(/l) (20%)$(li)1 $(l:ooo/items/core_medals#batta_medal)Batta Medal$(/l) (20%)$(br2)Bosses on next page"
+		},
+		{
+			"type": "patchouli:text",
+			"text": "Bosses:$(li)$(l:ooo/mobs/kazari_mob)Kazari$(/l) (in savanna biomes)$(li)$(l:ooo/mobs/uva_mob)Uva$(/l) (in forest biomes)$(li)$(l:ooo/mobs/gamel_mob)Gamel$(/l) (in badland biomes)$(li)$(l:ooo/mobs/mezooi_mob)Mezool$(/l) (in river/ocean biomes)$(li)$(l:ooo/mobs/ankh_lost_mob)Ankh (Lost)$(/l) (in mountain biomes)$(li)$(l:ooo/mobs/muchiri_mob)Muchiri$(/l) (in the Nether)$(li)$(l:ooo/mobs/kyoryu_greeed_mob)Kyoryu Greeed$(/l) (in the End)$(br2)Bosses in other biomes:$(li)$(l:ooo/mobs/kazari_mob)Kazari$(/l) (2%)$(li)$(l:ooo/mobs/uva_mob)Uva$(/l) (2%)$(li)$(l:ooo/mobs/gamel_mob)Gamel$(/l) (2%)$(li)$(l:ooo/mobs/mezooi_mob)Mezool$(/l) (2%)$(li)$(l:ooo/mobs/ankh_lost_mob)Ankh (Lost)$(/l) (2%)"
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "gatack",
+  "pattern": [
+	"XXX",
+	"XZX",
+	"XXX"
+  ],
+  "key": {
+	"X": {
+	  "item": "kamenridercraft:mini_zecter"
+	},
+	"Z": {
+	  "item": "kamenridercraft:gatack_zecter"
+	}
+  },
+  "result": {
+	"id": "kamenridercraft:gatack_rider_belt"
+  }
+}

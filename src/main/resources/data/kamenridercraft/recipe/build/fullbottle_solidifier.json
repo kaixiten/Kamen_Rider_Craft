@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "build",
+  "pattern": [
+	"IXI",
+	"XMX",
+	"IXI"
+  ],
+  "key": {
+	"X": {
+	  "item": "kamenridercraft:sclash_jelly"
+	},"I": {
+	  "tag": "c:ingots/iron"
+	},"M": {
+	  "item": "kamenridercraft:monitor"
+	}
+  },
+  "result": {
+	"id": "kamenridercraft:fullbottle_solidifier"
+  }
+}

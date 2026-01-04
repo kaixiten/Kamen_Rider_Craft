@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "g3_mild",
+  "pattern": [
+	"XXX",
+	"XMX",
+	"XXX"
+  ],
+  "key": {
+	"X": {
+	  "item": "kamenridercraft:g3core"
+	},
+	"M": {
+	  "item": "kamenridercraft:g3mild"
+	}
+  },
+  "result": {
+	"id": "kamenridercraft:g3_mild_belt"
+  }	
+}

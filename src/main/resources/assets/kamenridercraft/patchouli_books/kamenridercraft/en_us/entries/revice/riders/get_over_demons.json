@@ -1,0 +1,21 @@
+{
+	"name": "Kamen Rider Get Over Demons",
+	"icon": "kamenridercraft:get_over_demons_driver",
+	"category": "kamenridercraft:revice/riders",
+	"sortnum": 8,
+	"pages": [
+		{
+			"type": "patchouli:entity",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:get_over_demons_driver\",Count:1b},{id:\"kamenridercraft:revice_legs\",Count:1b},{id:\"kamenridercraft:revice_troso\",Count:1b},{id:\"kamenridercraft:revice_head\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": " ",
+			"text": ""
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Kamen Rider Get Over Demons",
+			"text": "Appears in:$(li)Kamen Rider Geats × Revice: Movie Battle Royale (2022, movie)$(br2)Transforms with the $(l:revice/devices/demons_driver#get_over_demons_driver)Demons Driver$(/l)$(br2)Status Effects:$(li)Speed IV$(li)Resistance III$(li)Night Vision$(li)Strength IV$(li)Flying"
+		}
+	]
+}

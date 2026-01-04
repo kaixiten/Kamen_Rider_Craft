@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "birth",
+  "pattern": [
+	"XMX",
+	"XSX",
+	"XXX"
+  ],
+  "key": {
+	"X": {
+	  "item": "kamenridercraft:cellmedal"
+	},
+	"S": {
+	  "item": "kamenridercraft:base_sword"
+	},
+	"M": {
+	  "item": "kamenridercraft:birth_core"
+	}
+  },
+  "result": {
+	"id": "kamenridercraft:birth_buster"
+  }	
+}
+

@@ -1,0 +1,50 @@
+{
+	"name": "Kamen Rider Ixa",
+	"icon": "kamenridercraft:knucklefuestle",
+	"category": "kamenridercraft:kiva/riders",
+	"sortnum": 1,
+	"pages": [
+		{
+			"type": "patchouli:entity",
+			"anchor": "save",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:ixa_belt\",components:{custom_data:{slot_tex1:\"kamenridercraft:knucklefuestle\"}},Count:1b},{id:\"kamenridercraft:kivalegs\",Count:1b},{id:\"kamenridercraft:kivatroso\",Count:1b},{id:\"kamenridercraft:kivahead\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": "Save Mode",
+			"text": "Accessed with the $(l:kiva/items/fuestles#knucklefuestle)Knuckle Fuestle$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Kamen Rider Ixa",
+			"text": "Appears in:$(li)Kamen Rider Kiva (2008, TV show)$(br2)Transforms with the $(l:kiva/devices/ixa_belt#ixa_belt)Ixa Belt$(/l)$(br2)Status Effects:$(li)Resistance$(li)Haste$(li)Strength"
+		},
+		{
+			"type": "patchouli:entity",
+			"anchor": "burst",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:ixa_belt\",components:{custom_data:{slot_tex1:\"kamenridercraft:knucklefuestle_burst\"}},Count:1b},{id:\"kamenridercraft:kivalegs\",Count:1b},{id:\"kamenridercraft:kivatroso\",Count:1b},{id:\"kamenridercraft:kivahead\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": "Burst Mode",
+			"text": "Accessed with the $(l:kiva/items/fuestles#knucklefuestle)Knuckle Fuestle$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Kamen Rider Ixa",
+			"text": "Appears in:$(li)Kamen Rider Kiva (2008, TV show)$(br2)Transforms with the $(l:kiva/devices/ixa_belt#ixa_belt)Ixa Belt$(/l)$(br2)Status Effects:$(li)Speed$(li)Haste II$(li)Fire Resistance$(li)Strength II"
+		},
+		{
+			"type": "patchouli:entity",
+			"anchor": "rising",
+			"entity": "kamenridercraft:shocker_combatman{CustomName:\"Grumm\",ArmorItems:[{id:\"kamenridercraft:ixa_belt\",components:{custom_data:{slot_tex1:\"kamenridercraft:risingfuestle\"}},Count:1b},{id:\"kamenridercraft:kivalegs\",Count:1b},{id:\"kamenridercraft:kivatroso\",Count:1b},{id:\"kamenridercraft:kivahead\",Count:1b}]}",
+			"scale": -1,
+			"offset": 0.1,
+			"name": "Rising Ixa",
+			"text": "Accessed with the $(l:kiva/items/fuestles#risingfuestle)Riser Fuestle$(/l)"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Kamen Rider Ixa",
+			"text": "Appears in:$(li)Kamen Rider Kiva (2008, TV show)$(br2)Transforms with the $(l:kiva/devices/ixa_belt#ixa_belt)Ixa Belt$(/l)$(br2)Status Effects:$(li)Speed II$(li)Resistance II$(li)Haste$(li)Fire Resistance$(li)Strength III"
+		}
+	]
+}
