@@ -47,7 +47,7 @@ public class baseBike2Entity extends Mob implements GeoEntity {
     public String NAME = "skullboilder";
     public String NAME_MODEL = "hardboilder";
     public String NAME_ANIMATIONS = "hardboilder";
-    public float MAX_SPEED = 0.08f;
+    public float MAX_SPEED = 0.1f;
     public static final int MAX_CLIMB_HEIGHT = 2;
 
     public RawAnimation IDLE = RawAnimation.begin().thenLoop("animation.model.idle");
@@ -187,8 +187,8 @@ public class baseBike2Entity extends Mob implements GeoEntity {
                     if (zInput <= 0) zInput *= 0.25f;
 
                     if (zInput > 0) {
-                        if (this.getSpeed() < 0.2) this.setSpeed(this.getSpeed() + MAX_SPEED);
-                        setYRot(yRotO - passenger.xxa * 10F);
+                        if (this.getSpeed() < 0.6) this.setSpeed(this.getSpeed() + MAX_SPEED);
+                        setYRot(yRotO - passenger.xxa * 5F);
                         setXRot(passenger.getXRot() * 3f);
 
                         setRot(getYRot(), getXRot());
